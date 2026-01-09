@@ -612,5 +612,113 @@ The insurer collected $2,000,000 in premiums but only paid out $1,100,000 in cla
 
 ---
 
+## 📸 Part 3: Termination & Other Provisions
+
+![Termination and Expenses](./images/termination-expenses.png)
+
+---
+
+## 7️⃣ Agency Contract: Expenses, Termination & Other Provisions
+
+| Component | Key Points |
+|-----------|------------|
+| **Expenses** | Paid by broker |
+| **Termination** | Usually 90-180 days notice |
+| **Other Provisions** | Includes Hold Harmless Clause |
+
+---
+
+### 📌 Expenses
+
+**Who pays?** The **broker** pays for their own operating expenses.
+
+| Expense Type | Who Pays |
+|--------------|----------|
+| Office rent | Broker |
+| Staff salaries | Broker |
+| Technology/software | Broker |
+| Marketing | Broker |
+| E&O insurance | Broker |
+| Professional development | Broker |
+
+> 💡 **Key Point:** The commission is meant to cover these expenses PLUS provide profit. This is why commission levels matter!
+
+---
+
+### 📌 Termination
+
+**Notice Period:** Usually **90 to 180 days** from BOTH sides.
+
+| Who Can Terminate | Notice Required |
+|-------------------|-----------------|
+| **Broker** terminates insurer | 90-180 days |
+| **Insurer** terminates broker | 90-180 days |
+
+#### Why Notice Periods Exist:
+
+| Reason | Explanation |
+|--------|-------------|
+| **Client transition** | Time to find new markets for clients |
+| **Commission run-off** | Complete pending renewals |
+| **Administrative wind-down** | Transfer files, settle accounts |
+| **Avoid surprises** | Both parties can plan ahead |
+
+#### Real-Life Example:
+> **Termination Scenario:**
+> 
+> A broker decides to end their relationship with Insurer A (December 1).
+> 
+> **With 90-day notice:**
+> - Termination effective March 1 (90 days later)
+> - Broker has time to find new markets
+> - Clients can be smoothly transitioned
+> - Pending renewals can be completed
+> 
+> **Without proper notice:**
+> - Breach of contract
+> - May lose run-off commissions
+> - Clients left without coverage
+
+---
+
+### 📌 Other Provisions: Hold Harmless Clause
+
+**Definition:** An agreement where one party agrees NOT to hold the other party responsible for certain losses or damages.
+
+#### In Agency Agreements:
+
+| Hold Harmless Clause | What It Means |
+|---------------------|---------------|
+| **Broker holds insurer harmless** | Broker won't sue insurer for broker's own errors |
+| **Insurer holds broker harmless** | Insurer won't sue broker for insurer's own errors |
+
+#### Real-Life Example:
+> **Hold Harmless in Action:**
+> 
+> A broker makes an error in the application, causing a claim denial.
+> 
+> **With hold harmless clause (broker → insurer):**
+> - Broker cannot sue insurer for the claim denial
+> - Broker is responsible for their own error
+> - Broker's E&O insurance would cover this
+> 
+> **Without hold harmless:**
+> - Broker might try to blame insurer
+> - Creates legal uncertainty
+
+> ⚠️ **Important:** Hold harmless clauses don't protect against intentional wrongdoing or gross negligence!
+
+---
+
+## 🎓 Final RIBO Takeaways
+
+16. **Broker pays own expenses** — commission must cover costs + profit
+17. **Termination notice** = 90-180 days from either party
+18. **Hold harmless clauses** protect each party from the other's errors
+19. **Always read the agency agreement** — it defines your relationship with the insurer
+
+---
+
 *← Back to: [Insurance Special Elements](./09-insurance-special-elements.md)*
+
 

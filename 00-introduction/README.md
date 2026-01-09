@@ -35,6 +35,7 @@ Progress: 7/19 items completed
 | 8 | Contracts | [08-contracts.md](./08-contracts.md) |
 | 9 | Insurance Special Elements | [09-insurance-special-elements.md](./09-insurance-special-elements.md) |
 | 10 | Modifying Contracts & Broker Authority | [10-modifying-contracts-broker-authority.md](./10-modifying-contracts-broker-authority.md) |
+| 11 | Insurance Company Structure | [11-insurance-company-structure.md](./11-insurance-company-structure.md) |
 
 ---
 

@@ -33,6 +33,7 @@ Progress: 7/19 items completed
 | 6 | Select & Implement | [06-select-and-implement.md](./06-select-and-implement.md) |
 | 7 | Monitoring | [07-monitoring.md](./07-monitoring.md) |
 | 8 | Contracts | [08-contracts.md](./08-contracts.md) |
+| 9 | Insurance Special Elements | [09-insurance-special-elements.md](./09-insurance-special-elements.md) |
 
 ---
 

@@ -29,6 +29,7 @@ Progress: 7/19 items completed
 | 2 | Investigation Considerations | [02-investigation-considerations.md](./02-investigation-considerations.md) |
 | 3 | Types of Exposed Property | [03-types-of-exposed-property.md](./03-types-of-exposed-property.md) |
 | 4 | Liability Exposures & Perils | [04-liability-exposures-and-perils.md](./04-liability-exposures-and-perils.md) |
+| 5 | Risk Analysis | [05-risk-analysis.md](./05-risk-analysis.md) |
 
 ---
 

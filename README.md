@@ -2,12 +2,17 @@
 
 Personal study notes and resources for the **Registered Insurance Brokers of Ontario (RIBO) Level 1** licensing exam.
 
-## 📖 Contents
+> 📖 **Course Provider:** PNC Learning
 
-- Study notes organized by topic
-- Key formulas and calculations
-- Practice questions and explanations
-- Quick reference guides
+---
+
+## 📂 Folder Structure
+
+| Folder | Module | Progress |
+|--------|--------|----------|
+| [`00-introduction`](./00-introduction/) | Introduction | 7/19 ⏳ |
+
+---
 
 ## 🎯 Exam Overview
 
@@ -19,15 +24,12 @@ Personal study notes and resources for the **Registered Insurance Brokers of Ont
 | Open Book | Yes |
 | Passing Score | ~60% |
 
-## 📝 Key Topics
+---
 
-- [ ] Insurance Fundamentals
-- [ ] Property Insurance
-- [ ] Liability Insurance
-- [ ] Auto Insurance
-- [ ] Co-insurance Calculations
-- [ ] Policy Conditions & Exclusions
-- [ ] Ethics & Regulations
+## 📝 Quick Links
+
+- [Key Formulas](./00-introduction/key-formulas.md)
+- [Study Notes](./00-introduction/notes.md)
 
 ---
 

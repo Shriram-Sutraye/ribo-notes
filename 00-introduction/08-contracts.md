@@ -316,4 +316,248 @@ If yes, and they didn't take precautions, they breached their duty of care.
 
 ---
 
+## 📸 Part 2: Elements of All Contracts
+
+![Elements of Contracts](./images/elements-of-contracts.png)
+
+---
+
+## 6️⃣ The 5 Essential Elements
+
+> **For a contract to be legally enforceable, it MUST have these 5 elements:**
+
+| Element | Description |
+|---------|-------------|
+| **Agreement** | Offer & acceptance (no further negotiations) |
+| **Genuine Intention** | Freely enter & aware of all terms |
+| **Consideration** | All parties benefit |
+| **Legality of Object** | Purpose of contract = legal |
+| **Legal Capacity of the Parties** | Parties are legally able to contract |
+
+---
+
+### 📌 Element 1: Agreement
+
+**Definition:** A valid **offer** has been made and **accepted** without further negotiation needed.
+
+| Component | Requirement |
+|-----------|-------------|
+| **Offer** | Clear, definite terms proposed |
+| **Acceptance** | Unconditional agreement to the offer |
+| **Communication** | Both parties aware of offer and acceptance |
+
+#### What Breaks an Agreement:
+
+| Issue | Problem |
+|-------|---------|
+| **Counter-offer** | Changes the terms = no agreement yet |
+| **Conditional acceptance** | "I accept IF..." = no agreement |
+| **Withdrawal** | Offer can be withdrawn before accepted |
+| **Rejection** | Declines the offer |
+
+#### Real-Life Example:
+> **Insurance Application:**
+> 
+> 1. Client applies for insurance (offer)
+> 2. Insurer reviews application
+> 3. Insurer issues policy (acceptance)
+> 
+> **Agreement is formed** when policy is issued.
+
+---
+
+### 📌 Element 2: Genuine Intention
+
+**Definition:** Both parties **freely enter** the contract and are **fully aware** of all terms.
+
+| Requirement | What It Means |
+|-------------|---------------|
+| **Freely enter** | No force, threats, or undue pressure |
+| **Aware of terms** | Understand what they're agreeing to |
+| **No deception** | No fraud or misrepresentation |
+
+#### What Invalidates Genuine Intention:
+
+| Vitiating Factor | Description | Example |
+|------------------|-------------|---------|
+| **Duress** | Forced into contract by threats | "Sign or I'll hurt you" |
+| **Undue Influence** | Pressure from position of power | Lawyer pressures elderly client |
+| **Misrepresentation** | False statements induced contract | Seller lies about product quality |
+| **Mistake** | Fundamental error about subject matter | Both parties wrong about what's being sold |
+| **Fraud** | Intentional deception | Forged documents |
+
+#### Real-Life Example:
+> **Insurance Misrepresentation:**
+> 
+> An applicant lies on their application about their driving history (3 DUIs hidden).
+> 
+> The insurer issues a policy based on false information.
+> 
+> **Result:** If discovered, the insurer can **void the contract** because there was no genuine intention — the contract was based on fraud.
+
+---
+
+### 📌 Element 3: Consideration
+
+**Definition:** Something of **value exchanged** between parties — ALL parties must benefit.
+
+| Party | What They Give | What They Get |
+|-------|----------------|---------------|
+| Insured | Premium payments | Promise to pay claims |
+| Insurer | Promise to pay claims | Premium payments |
+
+#### Key Rules:
+
+| Rule | Explanation |
+|------|-------------|
+| Must be valuable | Courts don't assess adequacy, just existence |
+| Must be legal | Can't be illegal goods/services |
+| Must be present | Past consideration doesn't count |
+| Must flow both ways | One-sided promises aren't contracts |
+
+#### What Counts as Consideration:
+
+| Valid | Not Valid |
+|-------|-----------|
+| Money | Love and affection (in most cases) |
+| Goods or services | Past favors ("I already did X for you") |
+| Promise to do something | Doing something you're already obligated to do |
+| Promise NOT to do something | Vague promises |
+
+#### Real-Life Example:
+> **Insurance Premium as Consideration:**
+> 
+> - **Insured's consideration:** $1,200/year premium
+> - **Insurer's consideration:** Promise to pay up to $500,000 if covered loss occurs
+> 
+> Both parties give something of value = valid consideration.
+
+---
+
+### 📌 Element 4: Legality of Object
+
+**Definition:** The **purpose** of the contract must be **legal**.
+
+| Legal Contracts | Illegal Contracts |
+|-----------------|-------------------|
+| Selling a car | Selling stolen goods |
+| Insurance policy | Insurance for illegal activities |
+| Employment agreement | Contract to commit a crime |
+| Lease agreement | Contract to evade taxes |
+
+#### What Makes a Contract Illegal:
+
+| Issue | Example |
+|-------|---------|
+| Criminal activity | Contract to smuggle drugs |
+| Violation of public policy | Contract restricting someone's right to work |
+| Statutory prohibition | Unlicensed person practicing medicine |
+| Against regulations | Broker operating without RIBO license |
+
+#### Real-Life Example:
+> **Unenforceable Insurance:**
+> 
+> A person tries to buy fire insurance on a building they don't own (no insurable interest).
+> 
+> **Result:** The contract is **unenforceable** because it would encourage arson — against public policy.
+
+> ⚠️ **RIBO Note:** An unlicensed person cannot legally sell insurance in Ontario. Any "contracts" they make are void!
+
+---
+
+### 📌 Element 5: Legal Capacity of the Parties
+
+**Definition:** The parties must have the **legal ability** to enter into contracts.
+
+#### Who CAN Enter Contracts:
+
+| Entity | Capacity |
+|--------|----------|
+| **Adult individuals** (18+ in Ontario) | Full capacity ✅ |
+| **Corporations** | Can contract ✅ |
+| **Sole proprietors** | Can contract ✅ |
+| **Partnerships** | Can contract ✅ |
+
+#### Who Has LIMITED or NO Capacity:
+
+| Category | Capacity | Notes |
+|----------|----------|-------|
+| **Minors** (under 18) | Limited | Can only contract for "necessities" (food, shelter, clothing) |
+| **Mental incompetents** | None | Cannot form valid contracts |
+| **Intoxicated persons** | Limited | Depends on level of impairment |
+| **Trade Names** | None | Trade names can't enter contracts — the person/entity behind it must |
+
+#### What Are "Necessities" for Minors?
+
+| Necessity | Not a Necessity |
+|-----------|-----------------|
+| Food | Luxury car |
+| Clothing | Entertainment |
+| Shelter | Jewelry |
+| Medical care | Investment products |
+| Basic education | Credit cards |
+
+#### Real-Life Example:
+> **Minor Trying to Buy Insurance:**
+> 
+> A 16-year-old tries to buy car insurance.
+> 
+> **Problem:** The minor lacks full legal capacity.
+> 
+> **Solution:** A parent or guardian must be the policyholder. The minor can be a named driver but not the contracting party.
+
+#### Trade Names vs. Legal Entities:
+
+> ⚠️ **Important Distinction:**
+
+| Trade Name | Legal Entity |
+|------------|--------------|
+| "Joe's Coffee Shop" (just a business name) | Joe Smith (the person) OR "Joe's Coffee Shop Inc." (if incorporated) |
+| Cannot sign contracts on its own | CAN sign contracts |
+| Not a legal "person" | Is a legal "person" |
+
+**Example:**
+> A policy must be in the name of "John Smith, operating as Joe's Coffee Shop" OR "Joe's Coffee Shop Inc." — NOT just "Joe's Coffee Shop" alone.
+
+---
+
+## 🧠 Practice Question #2
+
+> A 17-year-old signs a contract to buy a car for $15,000. One week later, they want to cancel the contract. Can they?
+> 
+> a) No, contracts are always binding  
+> b) Yes, because minors have no capacity to contract  
+> c) Yes, because a car is not a "necessity"  
+> d) Only if the seller agrees
+
+<details>
+<summary>Click to reveal answer</summary>
+
+**Answer: c) Yes, because a car is not a "necessity"**
+
+Minors (under 18) have **limited capacity** to contract. They can only be bound by contracts for **necessities** (food, shelter, clothing, medical care, basic education).
+
+A car (especially for $15,000) is NOT a necessity. The minor can **void** the contract.
+
+**Why not the others:**
+- a) Contracts with minors are voidable, not always binding
+- b) Minors have LIMITED capacity, not NO capacity — they can contract for necessities
+- d) The minor can void unilaterally; seller's agreement isn't required
+
+</details>
+
+---
+
+## 🎓 Additional RIBO Takeaways
+
+7. **5 Essential Elements:** Agreement, Genuine Intention, Consideration, Legality, Capacity
+8. **All 5 must be present** for a valid, enforceable contract
+9. **Fraud/misrepresentation** can void an insurance contract
+10. **Minors can only contract for necessities** — car insurance needs a parent as policyholder
+11. **Trade names can't contract** — must be the legal person/entity
+12. **Illegal contracts are unenforceable** — including insurance without insurable interest
+
+---
+
 *← Back to: [Monitoring](./07-monitoring.md)*
+

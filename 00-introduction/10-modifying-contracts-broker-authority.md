@@ -412,4 +412,205 @@ When an **oral binder** is issued, the broker MUST:
 
 ---
 
+## 📸 Part 2: Commissions & Bonuses
+
+![Commissions and Bonuses](./images/commissions-bonuses.png)
+
+---
+
+## 5️⃣ Commissions & Bonuses
+
+> **Commissions are the broker's main mode of compensation, typically ranging from 10-20% of premiums.**
+
+### Types of Broker Compensation:
+
+| Type | Description |
+|------|-------------|
+| **Standard Commission** | 10-20% of premium (average ~15%) |
+| **Contingent Profits/Bonuses** | Based on loss ratio & book performance |
+| **Referral Fees** | Fees for referring clients |
+| **Additional Fees** | Service fees, policy fees, etc. |
+
+---
+
+### Standard Commission (2026 Rates)
+
+Commissions vary by insurer and line of business:
+
+| Line of Business | Typical Commission Range |
+|------------------|-------------------------|
+| Personal Auto | 7.5% - 12% |
+| Homeowner's | 12% - 18% |
+| Commercial Property | 12% - 15% |
+| Commercial Liability | 15% - 20% |
+| Life Insurance | Varies widely (first year higher) |
+
+#### Real-Life Example:
+> **Commission Calculation:**
+> 
+> Client's annual home insurance premium = $2,400
+> Commission rate = 15%
+> 
+> **Broker's commission = $2,400 × 15% = $360/year**
+
+---
+
+### Contingent Profits/Bonuses
+
+**Definition:** Additional compensation based on the **profitability** of the broker's book of business (measured by loss ratio).
+
+| Factor | How It Affects Bonus |
+|--------|---------------------|
+| **Low loss ratio** | Higher bonus |
+| **Book size** | Larger books may get better bonuses |
+| **Retention** | Keeping clients = better performance |
+| **Growth** | Growing the book may trigger bonuses |
+
+> 💡 **This is why brokers want you to have FEW claims!** Lower loss ratios = higher bonuses for the broker.
+
+---
+
+### Loss Ratio Formula
+
+> **Loss Ratio = (Claims Paid ÷ Premiums Earned) × 100**
+
+| Component | Definition |
+|-----------|------------|
+| Claims Paid | Total claims paid by insurer |
+| Premiums Earned | Total premiums collected |
+
+#### Calculation Example:
+
+| Metric | Amount |
+|--------|--------|
+| Earned Premium | $2,000,000 |
+| Claims Paid | $800,000 |
+| **Loss Ratio** | ($800,000 ÷ $2,000,000) × 100 = **40%** |
+
+#### What Loss Ratio Means:
+
+| Loss Ratio | What It Means | For Broker |
+|------------|---------------|------------|
+| < 50% | Excellent performance | ✅ Higher contingent bonus |
+| 50-65% | Good performance | ✅ Likely still profitable |
+| 65-75% | Marginal | ⚠️ May affect bonus |
+| > 80% | Poor performance | ❌ May lose contingent bonus |
+| > 100% | Underwriting loss | ❌ Insurer losing money |
+
+---
+
+### Combined Ratio Formula
+
+> **Combined Ratio = (Claims + Expenses) ÷ Premiums × 100**
+
+The combined ratio includes BOTH claims AND operating expenses.
+
+#### Calculation Example:
+
+| Metric | Amount |
+|--------|--------|
+| Claims | $800,000 |
+| Expenses | $300,000 |
+| Premiums Earned | $2,000,000 |
+| **Combined Ratio** | ($800,000 + $300,000) ÷ $2,000,000 × 100 = **55%** |
+
+#### What Combined Ratio Means:
+
+| Combined Ratio | Result |
+|----------------|--------|
+| < 100% | ✅ Underwriting profit! |
+| = 100% | ⚠️ Break-even |
+| > 100% | ❌ Underwriting LOSS |
+
+> 💡 **Key Point:** Combined ratio of 100% = underwriting loss. The insurer is paying out more for claims and expenses than it collects in premiums.
+
+---
+
+## 6️⃣ RIBO Compensation Disclosure Requirements (2026)
+
+> ⚠️ **Brokers MUST disclose all forms of compensation to clients!**
+
+### RIBO-002 Mandatory Disclosure Guidelines:
+
+| Requirement | Details |
+|-------------|---------|
+| **When to disclose** | No later than at time of providing a quote |
+| **What to disclose** | All forms of compensation |
+| **Format** | Verbal allowed, but MUST follow up in writing |
+| **Record keeping** | Must maintain records for RIBO inspection |
+
+---
+
+### What MUST Be Disclosed:
+
+| Compensation Type | Must Disclose? |
+|-------------------|----------------|
+| Standard commissions | ✅ YES |
+| Potential contingent commissions | ✅ YES |
+| Referral fees | ✅ YES |
+| Additional fees/charges | ✅ YES |
+| Third-party interests held by insurers | ✅ YES |
+| Sales incentives | ✅ YES |
+
+---
+
+### Disclosure Timing:
+
+| When | Requirement |
+|------|-------------|
+| **Initial quote** | Full disclosure of all compensation |
+| **Renewal** | Communicate any significant changes |
+| **Ongoing** | Update if compensation arrangement changes |
+
+---
+
+### RIBO Annual Data Collection
+
+RIBO collects compensation data through its **IRIS system** during annual renewals to monitor industry trends.
+
+> 💡 This means RIBO tracks what brokers are earning across the industry!
+
+---
+
+## 🧠 Practice Question #2
+
+> An insurance brokerage has earned $2,000,000 in premiums. They had $800,000 in claims paid and $300,000 in operating expenses. What is their combined ratio, and does it represent a profit or loss?
+> 
+> a) 40% - Profit  
+> b) 55% - Profit  
+> c) 110% - Loss  
+> d) 100% - Break-even
+
+<details>
+<summary>Click to reveal answer</summary>
+
+**Answer: b) 55% - Profit**
+
+**Calculation:**
+- Combined Ratio = (Claims + Expenses) ÷ Premiums × 100
+- Combined Ratio = ($800,000 + $300,000) ÷ $2,000,000 × 100
+- Combined Ratio = $1,100,000 ÷ $2,000,000 × 100
+- **Combined Ratio = 55%**
+
+Since 55% < 100%, this is an **underwriting profit**.
+
+The insurer collected $2,000,000 in premiums but only paid out $1,100,000 in claims and expenses, keeping $900,000 as profit.
+
+</details>
+
+---
+
+## 🎓 Additional RIBO Takeaways
+
+9. **Standard commission** = 10-20% of premium (average 15%)
+10. **Contingent bonuses** are based on loss ratio performance
+11. **Loss Ratio** = Claims ÷ Premiums × 100
+12. **Combined Ratio** = (Claims + Expenses) ÷ Premiums × 100
+13. **Combined ratio > 100%** = underwriting LOSS
+14. **RIBO-002** requires disclosure of ALL compensation at time of quote
+15. **Verbal disclosure must be followed up in writing**
+
+---
+
 *← Back to: [Insurance Special Elements](./09-insurance-special-elements.md)*
+

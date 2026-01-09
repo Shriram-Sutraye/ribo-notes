@@ -382,4 +382,228 @@ This is the ideal combination:
 
 ---
 
+## 📸 Part 2: Additional Implementation Concepts
+
+![Select and Implement Part 2](./images/select-and-implement-part2.png)
+
+---
+
+## 4️⃣ Large vs Small Loss Principle
+
+One of the most important decision-making frameworks in risk management!
+
+### The Principle:
+
+| Loss Size | Strategy | Reasoning |
+|-----------|----------|-----------|
+| **Large Losses** | Transfer via insurance | Too expensive to absorb yourself |
+| **Small Losses** | Retain for cost-effectiveness | Cheaper to pay yourself than pay premiums |
+| **Balanced Approach** | Higher deductible + insurance | Best of both worlds |
+
+### Why This Works:
+
+> 💡 **Key Insight:** It's often **cheaper to retain small losses** and pay for them out of pocket than to buy insurance for everything.
+
+| If You Insure Everything | If You Retain Small Losses |
+|-------------------------|---------------------------|
+| High premiums | Lower premiums |
+| Pay for losses you could afford | Only insure what you can't afford |
+| Administrative burden for small claims | Less paperwork |
+
+### The Balanced Approach:
+
+**Higher Deductible + Insurance = Smart Risk Management**
+
+| Deductible Level | Premium | You Pay for Small Losses | Insurer Pays for Large Losses |
+|------------------|---------|-------------------------|------------------------------|
+| $500 | High | ❌ Not much | ✅ Everything over $500 |
+| $2,500 | Medium | ⚠️ Moderate | ✅ Everything over $2,500 |
+| $10,000 | Low | ✅ All small losses | ✅ Only catastrophic losses |
+
+### Real-Life Example:
+> **Business Property Insurance:**
+> 
+> **Option A:** $500 deductible, $15,000/year premium  
+> **Option B:** $10,000 deductible, $8,000/year premium
+> 
+> If the business typically has 1-2 small claims per year ($2,000 each):
+> - Option A: Pay $15,000 + $0 = $15,000/year
+> - Option B: Pay $8,000 + $4,000 = $12,000/year
+> 
+> **Option B saves $3,000/year** by retaining small losses!
+
+---
+
+## 5️⃣ Decision-Making Roles
+
+Implementing risk management requires different people doing different jobs:
+
+### Three Levels of Decision-Making:
+
+| Level | Role | Responsibility |
+|-------|------|----------------|
+| **Technical** | Front-line staff | Implement the plan day-to-day |
+| **Managerial** | Middle management | Oversee phases, coordinate teams |
+| **Senior Management** | Executives | Cost allocation, control, strategic decisions |
+
+---
+
+### 🔧 Technical Level
+
+**Who:** Front-line employees, safety officers, operations staff
+
+**What They Do:**
+| Task | Example |
+|------|---------|
+| Execute safety procedures | Follow fire drill protocol |
+| Maintain equipment | Check fire extinguishers monthly |
+| Report hazards | File incident reports |
+| Follow policies | Wear required PPE |
+
+**Example:**
+> A warehouse worker notices a spill, immediately puts up a "wet floor" sign, and cleans it up. They're **implementing** the slip-and-fall prevention plan.
+
+---
+
+### 📋 Managerial Level
+
+**Who:** Department heads, supervisors, project managers
+
+**What They Do:**
+| Task | Example |
+|------|---------|
+| Oversee implementation phases | Coordinate sprinkler installation project |
+| Train staff | Run quarterly safety training |
+| Monitor compliance | Audit safety checklist completion |
+| Report to senior management | Provide loss reports |
+
+**Example:**
+> A store manager schedules monthly fire drills, reviews incident reports weekly, and ensures all staff complete safety training. They're **overseeing** the risk management phases.
+
+---
+
+### 👔 Senior Management Level
+
+**Who:** CEO, CFO, Board of Directors, Risk Committee
+
+**What They Do:**
+| Task | Example |
+|------|---------|
+| Fair cost allocation | Budget for insurance premiums |
+| Cost control | Decide deductible levels |
+| Strategic decisions | Choose whether to self-insure |
+| Approve major expenditures | Greenlight new security system |
+
+**Example:**
+> The CFO reviews the company's total cost of risk (insurance premiums + retained losses + risk management expenses) and decides to increase deductibles to save $50,000/year. They're making **strategic cost allocation** decisions.
+
+---
+
+## 6️⃣ Emergency Response Planning
+
+Having a plan BEFORE disaster strikes is critical. A good emergency response plan is:
+
+### Characteristics of a Good Plan:
+
+| Characteristic | What It Means |
+|----------------|---------------|
+| **Clear** | Everyone understands their role |
+| **Simple** | Easy to follow under stress |
+| **Trained** | Staff have practiced it |
+| **Up-to-date** | Reviewed and updated regularly |
+
+---
+
+### Key Components of an Emergency Response Plan:
+
+| Component | Description |
+|-----------|-------------|
+| **Team Leader** | Assign a capable person to lead during crisis |
+| **Roles & Responsibilities** | Everyone knows what to do |
+| **Chain of Command** | Clear reporting structure |
+| **Contact Lists** | Emergency numbers, key personnel |
+| **Financial/Resource Planning** | Pre-approved spending authority |
+| **Training Schedule** | Regular drills and refreshers |
+| **Media/Crisis Communication Plan** | Who talks to press, what to say |
+| **Storage Location** | Keep in employee manual, accessible |
+
+---
+
+### Emergency Response Plan Template:
+
+| Section | Contents |
+|---------|----------|
+| **1. Emergency Types** | Fire, flood, active threat, power outage, etc. |
+| **2. Immediate Actions** | Evacuation routes, assembly points |
+| **3. Key Contacts** | Fire dept, police, ambulance, insurance broker |
+| **4. Chain of Command** | Who's in charge if manager is absent |
+| **5. Communication** | How to notify employees, media statement |
+| **6. Recovery Steps** | Getting back to business after emergency |
+
+---
+
+### Real-Life Example:
+> **Restaurant Emergency Response Plan:**
+> 
+> | Role | Person | Responsibility |
+> |------|--------|----------------|
+> | Team Leader | General Manager | Coordinate response, make decisions |
+> | Evacuation Lead | Shift Supervisor | Guide customers and staff to exits |
+> | First Aid | Trained staff member | Provide immediate medical help |
+> | Communications | Owner | Call 911, contact insurance, talk to media |
+> | Documentation | Assistant Manager | Take photos, document damage, file reports |
+
+---
+
+### Why This Matters:
+
+> ⚠️ **During a crisis, there's no time to figure out who does what!**
+
+| With a Plan | Without a Plan |
+|-------------|----------------|
+| ✅ Quick, organized response | ❌ Chaos and confusion |
+| ✅ Minimize damage | ❌ Damage gets worse |
+| ✅ Employees feel safe | ❌ Panic and fear |
+| ✅ Faster recovery | ❌ Extended downtime |
+| ✅ Insurance claims go smoothly | ❌ Missing documentation |
+
+---
+
+## 🧠 Practice Question #2
+
+> A company has frequent small losses ($500-$1,000 each) and rare large losses ($100,000+). According to the Large vs Small Loss Principle, what's the BEST strategy?
+> 
+> a) Insure everything with a $0 deductible  
+> b) Self-insure everything and save on premiums  
+> c) Use a high deductible to retain small losses, insure large losses  
+> d) Avoid all risky activities
+
+<details>
+<summary>Click to reveal answer</summary>
+
+**Answer: c) Use a high deductible to retain small losses, insure large losses**
+
+This is the **balanced approach**:
+- **Retain** the frequent, small losses (cheaper than paying premiums for them)
+- **Transfer** the rare, catastrophic losses via insurance
+
+**Why not the others:**
+- a) This would be very expensive and unnecessary for small losses
+- b) Self-insuring large losses is extremely risky
+- d) This may not be practical and eliminates business opportunity
+
+</details>
+
+---
+
+## 🎓 Additional RIBO Takeaways
+
+6. **Large losses = Transfer (insure)**, Small losses = Retain (pay yourself)
+7. **Higher deductibles** = Lower premiums, but you retain more risk
+8. **Three levels of decision-making:** Technical (do), Managerial (oversee), Senior (allocate $)
+9. **Emergency Response Plans** must be clear, simple, trained, and up-to-date
+10. **Store the plan** in the employee manual where everyone can access it
+
+---
+
 *← Back to: [Risk Analysis](./05-risk-analysis.md)*

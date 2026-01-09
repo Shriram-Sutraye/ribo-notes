@@ -32,6 +32,7 @@ Progress: 7/19 items completed
 | 5 | Risk Analysis | [05-risk-analysis.md](./05-risk-analysis.md) |
 | 6 | Select & Implement | [06-select-and-implement.md](./06-select-and-implement.md) |
 | 7 | Monitoring | [07-monitoring.md](./07-monitoring.md) |
+| 8 | Contracts | [08-contracts.md](./08-contracts.md) |
 
 ---
 

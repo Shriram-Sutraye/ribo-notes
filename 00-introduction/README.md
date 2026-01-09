@@ -36,6 +36,7 @@ Progress: 7/19 items completed
 | 9 | Insurance Special Elements | [09-insurance-special-elements.md](./09-insurance-special-elements.md) |
 | 10 | Modifying Contracts & Broker Authority | [10-modifying-contracts-broker-authority.md](./10-modifying-contracts-broker-authority.md) |
 | 11 | Insurance Company Structure | [11-insurance-company-structure.md](./11-insurance-company-structure.md) |
+| 12 | RIBO Exam Guide (2026) | [12-ribo-exam-guide-2026.md](./12-ribo-exam-guide-2026.md) |
 
 ---
 

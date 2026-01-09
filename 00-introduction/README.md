@@ -15,6 +15,22 @@ Progress: 7/19 items completed
 | 7 | Exam and Study Tips | Multimedia | - | ✅ |
 | 8 | RIBO 1 Exam Information | - | - | ⬜ |
 
-## My Notes
+---
 
-<!-- Add your notes from this section here -->
+## 📖 Study Notes
+
+### Identifying Loss Exposures
+> From: [DEMO] RIBO 1 Sample Lecture
+
+| # | Topic | File |
+|---|-------|------|
+| 0 | Overview | [00-identifying-loss-exposures.md](./00-identifying-loss-exposures.md) |
+| 1 | Categories of Loss Exposure | [01-categories-of-loss-exposure.md](./01-categories-of-loss-exposure.md) |
+| 2 | Investigation Considerations | [02-investigation-considerations.md](./02-investigation-considerations.md) |
+| 3 | Types of Exposed Property | [03-types-of-exposed-property.md](./03-types-of-exposed-property.md) |
+| 4 | Liability Exposures & Perils | [04-liability-exposures-and-perils.md](./04-liability-exposures-and-perils.md) |
+
+---
+
+## Quick Reference
+- [Key Formulas](./key-formulas.md)

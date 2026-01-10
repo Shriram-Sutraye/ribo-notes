@@ -9,6 +9,7 @@
 | # | Topic | File |
 |---|-------|------|
 | 1 | Insurance Fundamentals | [01-insurance-fundamentals.md](./01-insurance-fundamentals.md) |
+| 2 | Distribution Channels | [02-distribution-channels.md](./02-distribution-channels.md) |
 
 ---
 
@@ -17,7 +18,7 @@
 - [x] What is insurance? (Definition)
 - [x] Functions of insurance
 - [x] Types of insurers
-- [ ] Insurance terminology
+- [x] Distribution channels (Direct Writer, Broker, Agency, MGA)
 - [ ] More content as you progress...
 
 ---

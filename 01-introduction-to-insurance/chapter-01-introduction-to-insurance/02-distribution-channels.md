@@ -197,6 +197,119 @@ MGAs can be structured in two ways:
 
 ---
 
+## 5️⃣ Lloyd's of London
+
+![MGA & Lloyd's](./images/mga-lloyds.png)
+
+**Definition:** Lloyd's is a **marketplace** of underwriters (syndicates) who insure **the stuff that's uninsurable** in normal markets.
+
+> Lloyd's is NOT an insurance company — it's a **marketplace** where syndicates come together to insure complex/unusual risks.
+
+### Key Features:
+
+| Feature | Description |
+|---------|-------------|
+| **Structure** | A group of underwriters who **assume risks themselves** |
+| **Who can join** | Anyone who meets financial requirements can be a Lloyd's underwriter |
+| **History in Canada** | Nearly 200 years! |
+| **Specialty** | Complex, hard-to-place risks (cyber, professional liability, catastrophes) |
+
+---
+
+### What's a Syndicate?
+
+> A **Syndicate** = a group of financial backers who pool money to spread risk.
+
+| Feature | Description |
+|---------|-------------|
+| **Purpose** | Pool capital to underwrite large/complex risks |
+| **Liability** | Each syndicate is liable ONLY for its **own share** (not others) |
+| **How it works** | Multiple syndicates share 1 policy |
+
+---
+
+### Subscription Policy (Multiple Syndicates = 1 Policy)
+
+> A **Subscription Policy** = 1+ syndicates participate in the **same** insurance contract.
+
+| Feature | Description |
+|---------|-------------|
+| **How it works** | Each syndicate takes a % of the risk (e.g., 25%, 30%, 45%) |
+| **Total** | All shares must add up to **100%** |
+| **Claims** | Each insurer pays their pre-agreed % of any claim |
+| **Liability** | Each syndicate is only liable for **its own share** |
+
+#### The "Slip" Process:
+
+| Step | What Happens |
+|------|--------------|
+| 1 | Producer (broker/insured) gives the broker a **"slip"** (risk summary) |
+| 2 | Broker takes slip to Lloyd's underwriters |
+| 3 | Underwriters **commit a % of the risk** ("I'll take 20%") |
+| 4 | Process continues until slip = **100% subscribed** |
+| 5 | Policy is now fully placed! |
+
+> 💡 **Example:** A $10M yacht needs insurance. Syndicate A takes 40%, Syndicate B takes 35%, Syndicate C takes 25%. If the yacht sinks, each pays their % of the claim.
+
+---
+
+### Manuscript Policy (Custom-Written)
+
+> A **Manuscript Policy** = a **tailored policy** written for a **complex or unique risk** that doesn't fit standard forms.
+
+| Feature | Description |
+|---------|-------------|
+| **What it is** | Custom-drafted policy with unique wording |
+| **When used** | Large commercial clients, unusual risks |
+| **Why needed** | Standard policies don't fit the situation |
+| **Examples** | Celebrity body parts, satellite launches, concerts |
+
+> 💡 **Fun Fact:** Lloyd's has insured things like Keith Richards' hands and satellite launches!
+
+---
+
+### Coverholders (Lloyd's "Local Reps")
+
+> **Coverholders** = independent companies worldwide authorized by Lloyd's syndicates to underwrite on their behalf.
+
+| Feature | Description |
+|---------|-------------|
+| **What they are** | Independent companies (not Lloyd's employees) |
+| **Authorization** | Licensed by Lloyd's syndicate through a managing agent |
+| **Purpose** | Let Lloyd's operate globally without opening offices everywhere |
+| **Structure** | Delegated authority from syndicate |
+
+### What Coverholders Can Do (Delegated Authority):
+
+| Power | Description |
+|-------|-------------|
+| **Issue documents** | Create policy documents |
+| **Bind coverage** | Accept risks within limits |
+| **Collect premiums** | Gather payments from insureds |
+| **Settle claims** | Handle claims processing |
+| **Write business** | Within tight, pre-approved limits |
+
+### Why Coverholders Exist:
+
+| Benefit | How It Helps |
+|---------|--------------|
+| **Broader scope** | Access local markets worldwide |
+| **Efficiency** | No need to set up offices in every country |
+| **Market expansion** | Syndicates can grow without huge overhead |
+| **Local expertise** | Coverholders know their local market |
+
+> 💡 **In Canada:** Coverholders must be licensed in each province where they do business.
+
+### 2026 Context: Lloyd's in Canada
+
+| Stat | Data |
+|------|------|
+| **Projected 2026 Gross Written Premium** | £67.4 billion globally |
+| **2026 Stamp Capacity** | £58 billion (4% growth) |
+| **Canada Event** | "Meet the Market in Canada" — April 28, 2026, Toronto |
+
+---
+
 ## 🧠 Practice Questions
 
 ### Question 1:
@@ -264,6 +377,53 @@ MGAs are intermediaries (wholesalers) that:
 
 ---
 
+### Question 4:
+> In a Lloyd's subscription policy, three syndicates take 40%, 35%, and 25% of a risk. If a $100,000 claim occurs, how much does Syndicate B (35%) pay?
+> 
+> a) $25,000  
+> b) $35,000  
+> c) $40,000  
+> d) $100,000
+
+<details>
+<summary>Click to reveal answer</summary>
+
+**Answer: b) $35,000**
+
+In a subscription policy, each syndicate pays only its **proportional share** of claims.
+
+- Syndicate A (40%): pays $40,000
+- **Syndicate B (35%): pays $35,000**
+- Syndicate C (25%): pays $25,000
+
+Each syndicate is liable ONLY for its own share, not the full amount.
+
+</details>
+
+---
+
+### Question 5:
+> What is a manuscript policy?
+> 
+> a) A standard policy form used by all insurers  
+> b) A tailored policy custom-written for a complex or unique risk  
+> c) A policy sold only through Lloyd's  
+> d) A policy for auto insurance only
+
+<details>
+<summary>Click to reveal answer</summary>
+
+**Answer: b) A tailored policy custom-written for a complex or unique risk**
+
+Manuscript policies are **custom-drafted** with unique wording to meet the specific needs of:
+- Large commercial clients
+- Unusual risk exposures
+- Situations where standard forms don't fit
+
+</details>
+
+---
+
 ## 🎓 Key RIBO Takeaways
 
 1. **2 main distribution methods:** Direct Writer vs Independent Broker
@@ -272,8 +432,12 @@ MGAs are intermediaries (wholesalers) that:
 4. **Agency System** = 1 insurer only + Facility Association (e.g., State Farm)
 5. **MGA** = wholesalers with underwriting, claims, and appointing powers
 6. **50%+ of Ontario MGAs** are voluntarily RIBO-licensed
-7. **July 2026:** Brokers must educate clients on new auto insurance optionality
+7. **Lloyd's** = marketplace of syndicates for hard-to-place risks
+8. **Subscription Policy** = multiple syndicates share 1 risk (each pays their %)
+9. **Manuscript Policy** = custom-written for unique risks
+10. **Coverholders** = Lloyd's local reps with delegated authority
 
 ---
 
 *← Back to: [Chapter 1 README](./README.md)*
+

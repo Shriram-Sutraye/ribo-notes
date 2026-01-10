@@ -8,17 +8,17 @@
 
 | # | Topic | File |
 |---|-------|------|
-| - | *Notes will be added as you watch the video* | - |
+| 1 | Insurance Fundamentals | [01-insurance-fundamentals.md](./01-insurance-fundamentals.md) |
 
 ---
 
 ## 🎯 Key Topics
 
-- [ ] What is insurance?
-- [ ] Purpose of insurance
-- [ ] How insurance works
-- [ ] Types of insurers
+- [x] What is insurance? (Definition)
+- [x] Functions of insurance
+- [x] Types of insurers
 - [ ] Insurance terminology
+- [ ] More content as you progress...
 
 ---
 

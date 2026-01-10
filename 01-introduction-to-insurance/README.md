@@ -1,6 +1,6 @@
 # 📚 Module 01: Introduction to Insurance
 
-> **Course:** PNC Learning - RIBO Level 1 | **Status:** In Progress
+> **Course:** PNC Learning - RIBO Level 1 | **Status:** In Progress (0/17)
 
 ---
 
@@ -10,36 +10,23 @@ This module covers the fundamentals of what insurance is, including government r
 
 ---
 
-## 📖 Chapters
+## � Chapter Folders
 
-| # | Chapter | Type | Duration |
-|---|---------|------|----------|
-| 1 | Introduction to Insurance | Video | 63 min |
-| 1 | Key Learning Outcomes | Text | - |
-| 1 | Quiz | Quiz | 27 questions |
-| 2 | Government & Insurance Industry Regulations | Video | 26 min |
-| 2 | Key Learning Outcomes | Text | - |
-| 2 | Quiz | Quiz | - |
+| # | Chapter | Folder | Duration |
+|---|---------|--------|----------|
+| 1 | Introduction to Insurance | [chapter-01-introduction-to-insurance](./chapter-01-introduction-to-insurance/) | 63 min |
+| 2 | Government & Insurance Industry Regulations | [chapter-02-government-regulations](./chapter-02-government-regulations/) | 26 min |
 
 ---
 
-## 📝 Study Notes
+## � Progress
 
-| # | Topic | File |
-|---|-------|------|
-| - | *Notes will be added as you progress* | - |
-
----
-
-## 🎯 Key Topics to Master
-
-- [ ] What is insurance?
-- [ ] Types of insurers
-- [ ] Classes of insurance
-- [ ] Insurance terminology
-- [ ] Government regulations
-- [ ] RIBO's role
-- [ ] Industry structure
+- [ ] Chapter 1 Video (63 min)
+- [ ] Chapter 1 Key Learning Outcomes
+- [ ] Chapter 1 Quiz (27 questions)
+- [ ] Chapter 2 Video (26 min)
+- [ ] Chapter 2 Key Learning Outcomes
+- [ ] Chapter 2 Quiz
 
 ---
 

@@ -245,6 +245,194 @@ There are **2 types** of insurance applications:
 
 ---
 
+## 📋 Part 3: Key Application Info (9 Items!)
+
+> 💡 **From Transcript:** "Now we're going to talk about the types of information that might be generally required for an insurance application."
+
+### The 9 Key Items You MUST Collect:
+
+---
+
+### 1️⃣ Named Insured & Mailing Address
+
+> 💡 **From Transcript:** "We need the name of the named insured, which is the applicant. We also need their mailing address in case they need to receive policy documents or notices related to the insurance policy."
+
+| Item | What to Collect |
+|------|-----------------|
+| **Named Insured** | Who is the applicant? Full legal name |
+| **Mailing Address** | Where to send policy documents and notices |
+
+> 🎯 **Plain English:** Basic stuff - who are they and where do we send the paperwork?
+
+---
+
+### 2️⃣ Loss Payees (⚠️ Potential Moral Hazard!)
+
+> 💡 **From Transcript:** "A loss payee is somebody other than the named insured who can collect money. If there's a lot of loss payees, you need to investigate because that could be a potential moral hazard."
+
+| Term | Definition |
+|------|------------|
+| **Loss Payee** | Someone OTHER than the insured who can collect on a claim |
+| **Common Examples** | Banks, lenders, mortgage companies |
+
+> ⚠️ **RED FLAG - Moral Hazard Warning:**
+
+> 💡 **From Transcript:** "For example, if you have a lot of mortgages or debtors that are listed on the policy, maybe there's a lot of debt on there, which could indicate that insured might be suffering from financial difficulties, which means there's a higher risk of insurance fraud or neglecting the maintenance."
+
+| Many Loss Payees Could Mean | Risk |
+|-----------------------------|------|
+| High debt load | Financial difficulties |
+| Multiple mortgages | Possible distress |
+| Many debtors | Higher fraud risk |
+| Neglected maintenance | Claims more likely |
+
+> 🎯 **Plain English:** If someone has 5 different banks listed as loss payees, that's a sign they might be in financial trouble. Financially stressed people are more likely to:
+> - Commit insurance fraud (arson, staged theft)
+> - Neglect property maintenance (leading to claims)
+>
+> **Always investigate when you see multiple loss payees!**
+
+---
+
+### 3️⃣ Subject of Insurance
+
+> 💡 **From Transcript:** "What are we insuring? Is it a home, car? Is it liability? Is it a piece of business equipment? What limit of insurance is required? What coverage is required?"
+
+| For Property | For Auto |
+|--------------|----------|
+| What is it? (home, building, equipment) | Description of the automobile |
+| Where is it? | Territory of operation |
+| What limits? | Usage (business vs personal) |
+| What's the usage? (living in it, rental, etc.) | Who drives it? |
+| | Who has insurable interest? |
+
+> 🎯 **Plain English:**
+> - **Property:** What, where, how much, and how is it used?
+> - **Auto:** What car, where driven, for what purpose, who drives, and who owns it?
+
+---
+
+### 4️⃣ Policy Term
+
+> 💡 **From Transcript:** "When does the policy start? When does it end? Typically policies are for a one-year term."
+
+| Item | Details |
+|------|---------|
+| **Inception Date** | When coverage starts |
+| **Expiry Date** | When coverage ends |
+| **Standard Term** | Usually 1 year |
+
+> ⚠️ **Important Rule on Backdating:**
+
+> 💡 **From Transcript:** "You can sometimes backdate the inception of the policy, but that requires some detailed investigation, because you cannot provide coverage for something that already happened. You cannot buy fire insurance on a house while it's on fire, or after it's already burned down."
+
+> 🎯 **Plain English:** You CAN'T insure something that already happened. Period. If someone calls after their house burned down wanting "backdated" insurance, that's insurance fraud!
+
+---
+
+### 5️⃣ Loss History (≠ Claims History!)
+
+> 💡 **From Transcript:** "You need to know the frequency and the types of losses, because this can be used to predict future losses. But just know that losses don't equal claims. You can have a loss, but not claim it."
+
+| Term | Meaning |
+|------|---------|
+| **Loss** | Something bad happened (damage, accident) |
+| **Claim** | You reported it to insurance for payment |
+| **Key Difference** | You can have a loss without filing a claim |
+
+> 🎯 **Plain English:** They're asking about LOSSES, not just claims. Someone might have had a small fender bender and paid out of pocket - that's still a loss even if they didn't claim it.
+
+**Look-Back Periods:**
+
+| Type | Typical Look-Back |
+|------|-------------------|
+| Home insurance | 3-5 years |
+| Commercial insurance | 3-5 years |
+| Auto insurance | 5-10 years |
+
+---
+
+### 6️⃣ Insurance History
+
+> 💡 **From Transcript:** "Who is your previous insurer? What was the policy number and what was the expiry date? This is used to confirm your loss history, check for any unexplained gaps in coverage, or any previous declines or refusals to insure or refusals to renew."
+
+| What to Check | Why It Matters |
+|---------------|----------------|
+| **Previous insurer** | Verify loss history |
+| **Policy number** | Cross-reference |
+| **Expiry date** | Check for gaps |
+| **Declines/non-renewals** | Red flags for underwriting |
+
+> 🎯 **Plain English:** If another company refused to insure them or didn't renew their policy, there's probably a reason. Find out why before you take them on!
+
+---
+
+### 7️⃣ Broker's Intermediary Report
+
+> 💡 **From Transcript:** "As the broker, you know the client better than the underwriter at the insurance company does. So you can add some information based on your own personal knowledge."
+
+| What You Know | How It Helps |
+|---------------|--------------|
+| Relationship with client | Shows you vouch for them |
+| Site visits | You've seen the property |
+| Character/responsibility | Personal knowledge |
+
+> 💡 **From Transcript:** "This is very important for getting business approved that would otherwise not be. So if something is kind of on the edge of what the insurance company wants to take on, if you have photos or other supporting information to show that the facility is clean and well maintained, this might tip the scale and allow the insurance company to either give you a better rate or accept the risk when they otherwise would have declined it."
+
+> 🎯 **Plain English:** Your personal seal of approval matters! If the underwriter is on the fence, YOUR report can make the difference between approved and declined.
+
+---
+
+### 8️⃣ Add Personal Insights/Observations
+
+> 💡 **From Screenshot:** "Add personal insights or observations (e.g. property conditions)"
+
+| What to Observe | Examples |
+|-----------------|----------|
+| Property condition | Clean, well-maintained, cluttered, overgrown |
+| Safety measures | Smoke detectors, sprinklers, alarms |
+| Maintenance | Up to date or neglected |
+| Housekeeping | Organized or hazardous |
+
+> 🎯 **Plain English:** If you visit the property, take notes! "Property is well-maintained, smoke detectors present, clear egress paths" can help a borderline application get approved.
+
+---
+
+### 9️⃣ Include Photos/Risk Assessments for Complex Risks
+
+> 💡 **From Screenshot:** "Include photos or risk assessments for complex risks (farms, biz)"
+
+> 💡 **From Transcript:** "Brokers will typically visit the property to assess the risk, especially if it's a complex risk like a manufacturing risk, to ensure that all insurance requirements are met. For example, if they're required to have sprinklers, alarm systems, the broker can go on site to make sure those risk management things have been implemented."
+
+| Complex Risk Examples | What to Document |
+|-----------------------|------------------|
+| Farms | Buildings, livestock, equipment, operations |
+| Manufacturing | Fire protection, machinery, hazards |
+| Restaurants | Kitchen setup, fire suppression |
+| Warehouses | Storage, sprinklers, loading areas |
+
+> 🎯 **Plain English:** For complex commercial risks, PICTURES ARE WORTH THOUSANDS OF DOLLARS. A photo showing their sprinkler system and fire alarm can be the difference between getting coverage and being declined.
+
+---
+
+## 📷 Summary: The 9 Key Application Info Items
+
+| # | Item | Why It Matters |
+|---|------|----------------|
+| 1 | Named Insured & Address | Who and where |
+| 2 | Loss Payees | Moral hazard check |
+| 3 | Subject of Insurance | What we're covering |
+| 4 | Policy Term | When coverage applies |
+| 5 | Loss History | Predict future losses |
+| 6 | Insurance History | Previous issues/gaps |
+| 7 | Broker's Report | Your personal vouching |
+| 8 | Personal Insights | Observations on conditions |
+| 9 | Photos/Risk Assessments | Visual proof for complex risks |
+
+> 🎯 **Memory Hook:** "**NLSP-LIBP**" = Named insured, Loss payees, Subject, Policy term, Loss history, Insurance history, Broker report, Personal insights, Photos
+
+---
+
 ## 🇨🇦 2026 Canadian Context
 
 ### RIBO 2026 Updates
@@ -367,6 +555,39 @@ Written forms typically include:
 > - Who signed off
 >
 > **If there's ever a dispute:** This evidence can save your career.
+
+---
+
+### Q8: What are loss payees and why do multiple loss payees create moral hazard?
+
+| Term | Definition |
+|------|------------|
+| **Loss Payee** | Third party (not the insured) who can collect claim money |
+| **Common Examples** | Banks, mortgage companies, finance companies |
+| **Moral Hazard** | Increased risk of dishonest behavior |
+
+> 🎯 **Plain English:** If someone has MANY banks/lenders on their policy, it means they have lots of debt. High debt = financial stress = higher chance they might:
+> - Commit fraud (arson, staged theft)
+> - Neglect property maintenance
+> - Let the property fall into disrepair
+>
+> **Always investigate when you see multiple loss payees!**
+
+---
+
+### Q9: What's the difference between loss history and claims history?
+
+| Term | Meaning |
+|------|---------|
+| **Loss** | Something bad happened (damage, accident, fire) |
+| **Claim** | You reported it and asked for payment |
+| **Key Difference** | You can have a loss WITHOUT claiming it |
+
+> 🎯 **Plain English:** 
+> - You had a $500 fender bender but paid out of pocket → That's a LOSS but not a CLAIM
+> - When insurers ask about "loss history" they want to know about ALL losses, even ones you didn't claim
+>
+> **Look-back periods:** Home/Commercial = 3-5 years, Auto = 5-10 years
 
 ---
 

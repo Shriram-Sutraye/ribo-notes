@@ -311,6 +311,8 @@ Step 3: After policy delivery
 
 ### 6️⃣ Storage & Management
 
+> 💡 **From Screenshot:** "Storage & Management - Use secure, organized systems & maintain up-to-date, accessible files"
+
 > 💡 **From Transcript:** "When it comes to storage and management of documentation, we need to maintain organized files and use the brokerage management system to store and manage client information in a secure way."
 
 | Requirement | How |
@@ -319,12 +321,16 @@ Step 3: After policy delivery
 | **Use BMS** | Brokerage management system |
 | **Secure storage** | Protect client information |
 | **Easy retrieval** | Find documents when needed |
+| **Up-to-date** | Keep files current |
+| **Accessible** | Staff can find what they need |
 
 ---
 
-### 7️⃣ Compliance & Audits
+### 7️⃣ Audit & Compliance
 
-> 💡 **From Transcript:** "Conduct regular client file audits and provide ongoing staff training on accurate documentation and compliance. So every once in a while, the manager might come in and check your files to make sure that everything required is in there."
+> 💡 **From Screenshot:** "Audit & Compliance - Regular file audits & ongoing staff training"
+
+> 💡 **From Transcript:** "Conduct regular client file audits and provide ongoing staff training on accurate documentation and compliance. So every once in a while, the manager might come in and check your files to make sure that everything required is in there. So if you need to upload any client emails and any client communications, call notes that those are all in the file."
 
 | Compliance Activity | Frequency |
 |---------------------|-----------|
@@ -332,7 +338,110 @@ Step 3: After policy delivery
 | **Staff training** | Ongoing |
 | **Manager reviews** | Periodic spot checks |
 
-> 🎯 **Plain English:** Your manager will randomly check your files. If something's missing, you'll hear about it! Keep your documentation clean.
+> 🎯 **Plain English:** Your manager will randomly check your files. If something's missing (emails not uploaded, call notes missing), you'll hear about it! Keep your documentation clean.
+
+---
+
+### 8️⃣ Retention & Disposal
+
+> 💡 **From Screenshot:** "Retention & Disposal - Follow retention policy & dispose of outdated/unneeded docs securely"
+
+> 💡 **From Transcript:** "And lastly, retention and disposal. So you need to follow a retention policy and dispose of any unneeded documents."
+
+| Task | Details |
+|------|---------|
+| **Follow retention policy** | Keep documents for required period |
+| **Dispose of unneeded docs** | Securely destroy old records |
+| **Shredding** | Don't just throw in garbage |
+| **Digital deletion** | Secure wipe of electronic files |
+
+> 🎯 **Plain English:** You can't keep everything forever, but you can't just throw client files in the trash either. Follow your brokerage's retention policy and SECURELY dispose of old documents (shred, not garbage bin!).
+
+---
+
+## 📊 Summary: 6 Document Processing Steps (From Screenshot)
+
+| # | Step | Key Action |
+|---|------|------------|
+| 1 | Collection & Submission | Gather docs, submit promptly |
+| 2 | Verification & Validation | Check accuracy, ensure compliance |
+| 3 | Client Communication | Keep clients informed, document all |
+| 4 | Storage & Management | Secure, organized, accessible |
+| 5 | Audit & Compliance | Regular audits, staff training |
+| 6 | Retention & Disposal | Follow policy, dispose securely |
+
+---
+
+## ✅ Why Clear Documentation Matters (5 Key Reasons!)
+
+> 💡 **From Transcript:** "When it comes to working in insurance, clear and accurate documentation is super important."
+
+### 1️⃣ Legal & Regulatory Compliance
+
+> 💡 **From Transcript:** "We need to make sure we comply with all legal and regulatory requirements. So we need to ensure that everything we do in terms of documentation is in compliance with insurance industry regulations and legal requirements and provide a clear audit trail."
+
+| Requirement | Why |
+|-------------|-----|
+| Comply with regulations | RIBO, FSRA, PIPEDA |
+| Clear audit trail | Prove you followed the rules |
+| Legal requirements | Industry standards |
+
+### 2️⃣ Client Trust & Satisfaction
+
+> 💡 **From Transcript:** "It's also super important for client trust and satisfaction. This boosts transparency and builds trust and also accurate records help us provide better service and more efficient service to the customers."
+
+| Benefit | How |
+|---------|-----|
+| Transparency | Clients know what's happening |
+| Builds trust | Clients feel confident |
+| Better service | Faster, more accurate |
+
+### 3️⃣ Risk Management (E&O Protection!)
+
+> 💡 **From Transcript:** "Good documentation is a very easy way to reduce E&O risk and helps with dispute resolution. So having a standardized workflow with some procedures for how we handle transactions and also sending out letters of confirmation whenever we do anything on the phone will help with that documentation process and lower the risk of us being sued for a mistake."
+
+| Protection | How |
+|------------|-----|
+| Reduce E&O risk | Proof of what was discussed |
+| Dispute resolution | Evidence in your favor |
+| Confirmation letters | Follow up phone calls in writing |
+| Standardized workflows | Consistent processes |
+
+> 🎯 **Plain English:** If you're ever sued for a mistake:
+> - Good documentation = DEFENSE
+> - No documentation = You lose
+
+### 4️⃣ Operational Efficiency
+
+> 💡 **From Transcript:** "Also operational efficiencies and other key benefit of clear and accurate documentation because it will streamline processes and allow us to handle things a lot quicker with some better time management."
+
+| Benefit | Result |
+|---------|--------|
+| Streamlined processes | Less back-and-forth |
+| Faster handling | Save time |
+| Better time management | Work more efficiently |
+
+### 5️⃣ Financial Accuracy
+
+> 💡 **From Transcript:** "Another key benefit is financial accuracy. This will allow accurate billing and commissions tracking."
+
+| Benefit | Impact |
+|---------|--------|
+| Accurate billing | Correct premiums charged |
+| Commission tracking | You get paid correctly |
+| Fewer disputes | Less arguing over money |
+
+### 6️⃣ Data Security & Privacy
+
+> 💡 **From Transcript:** "And finally data security and privacy. Handling sensitive data in a secure way will protect against things like data breaches and cyber threats."
+
+| Requirement | Protects Against |
+|-------------|------------------|
+| Secure handling | Data breaches |
+| Privacy compliance | PIPEDA violations |
+| Safe storage | Cyber threats |
+
+> 🎯 **Plain English:** Client data is SENSITIVE. Wrong handling = data breach = lawsuits = RIBO discipline. Protect it!
 
 ---
 

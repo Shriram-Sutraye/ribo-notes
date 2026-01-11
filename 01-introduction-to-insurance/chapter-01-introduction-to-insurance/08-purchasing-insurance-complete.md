@@ -673,6 +673,94 @@ There are **2 types** of insurance applications:
 
 ---
 
+## 📄 Part 6: Post-Selection Steps (After Client Picks a Quote)
+
+> 💡 **From Transcript:** "So once you've gotten the application back from the customer, you've sent it out to various insurance companies, you've gotten the quotes back, you've presented the various quotes to the client, and they have chosen to proceed with one of the options that you've presented..."
+
+### Step 2️⃣: Complete the Application
+
+> 💡 **From Screenshot:** "Step 2: Complete the application - 1. Fill out the application in full, 2. Explain all sections clearly to the client, 3. Present coverage options with recommendations"
+
+| Sub-Step | What to Do |
+|----------|------------|
+| **1. Fill out application in full** | Complete ALL required fields, no blanks |
+| **2. Explain all sections clearly** | Make sure client understands what they're signing |
+| **3. Present coverage with recommendations** | Show options AND your professional advice |
+
+> 🎯 **Plain English:** Don't just hand them a form - walk them through it! Explain what each section means and give them your professional recommendation on what coverage is best for their situation.
+
+---
+
+### Step 3️⃣: Take Payment & Provide Documentation
+
+> 💡 **From Screenshot:** "Step 3: Take payment & provide documentation - 1. Collect payment and issue receipt, 2. Provide all required documents before client leaves, 3. Payment options"
+
+#### Collect Payment & Issue Receipt:
+
+> 💡 **From Transcript:** "The next step is to take payment, provide the binder, and provide them with all documentation."
+
+#### Payment Options:
+
+> 💡 **From Transcript:** "When it comes to taking payments for insurance premiums, it can be in the form of cash, check, debit or credit card, or you can do it through a third party premium financing company if they want to pay monthly, or even some insurers will also offer their own premium financing in-house. And of course, payments can be financed or it can be paid in full."
+
+| Payment Method | Details |
+|----------------|---------|
+| **Cash** | Traditional, immediate |
+| **Check** | Personal or business check |
+| **Debit Card** | Direct from bank account |
+| **Credit Card** | Visa, Mastercard, etc. |
+| **Third-Party Financing** | Monthly payments through finance company |
+| **Insurer In-House Financing** | Some insurers offer their own payment plans |
+| **Paid in Full** | One lump sum upfront |
+
+> 🎯 **Plain English:** Clients can pay however they want - all at once or in monthly payments. Premium financing companies let them spread the cost over time (with interest).
+
+---
+
+#### Documentation to Provide BEFORE Client Leaves:
+
+> 💡 **From Transcript:** "So for example, given a binder, a confirmation letter, a liability card, in the case of auto insurance, those types of documentations that they can prove that they have coverage in place before they leave the building."
+
+| Document | What It Is | When Needed |
+|----------|------------|-------------|
+| **Binder** | Temporary proof of insurance | Until full policy arrives |
+| **Confirmation Letter** | Written confirmation of coverage | Immediately |
+| **Liability Card (Pink Slip)** | Proof of auto insurance | Auto - always |
+| **Receipt** | Proof of payment | After payment |
+
+> 🎯 **Plain English:** The client should NEVER leave without proof they have insurance! Even if the full policy takes weeks to arrive, they need SOMETHING to show they're covered.
+
+---
+
+#### What is a Binder?
+
+> 💡 **From Transcript:** "It might take some time for the insurance companies to issue the official policy documents. So if that's the case, you can send those later, but you want to make sure at least they leave with a binder."
+
+| Feature | Details |
+|---------|---------|
+| **What it is** | Temporary proof of insurance |
+| **Why needed** | Full policy documents take time to issue |
+| **Duration** | Until official policy arrives |
+| **Legal status** | Valid proof of coverage |
+
+> 🎯 **Plain English:** A binder is like a "receipt" for insurance. It proves you're covered RIGHT NOW while the insurance company prepares your full policy documents (which can take days or weeks).
+
+---
+
+#### Digital Policy Issuance:
+
+> 💡 **From Transcript:** "Otherwise, there are some insurers that will issue the policy documents automatically through some kind of portal or digital platform, and if that's the case, you can send it to them right away on the spot."
+
+| Traditional | Digital |
+|-------------|---------|
+| Wait days/weeks for paper documents | Instant digital policy |
+| Mail or pickup | Email or portal download |
+| Issue binder in meantime | Full policy immediately |
+
+> 🎯 **Plain English:** Some modern insurers issue the full policy instantly through their online systems - no waiting, no binder needed!
+
+---
+
 ## 🇨🇦 2026 Canadian Context
 
 ### RIBO 2026 Updates

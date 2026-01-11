@@ -8,6 +8,7 @@
 
 | # | Topic | File |
 |---|-------|------|
+| 0 | Intro Video Transcript | [00-intro-video-transcript.md](./00-intro-video-transcript.md) |
 | 1 | Insurance Fundamentals | [01-insurance-fundamentals.md](./01-insurance-fundamentals.md) |
 | 2 | Distribution Channels | [02-distribution-channels.md](./02-distribution-channels.md) |
 

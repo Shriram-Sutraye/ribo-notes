@@ -410,6 +410,128 @@ There are **4 main reasons:**
 
 ---
 
+## ❓ Frequently Asked Questions (FAQ)
+
+### Q1: In Non-Proportional Reinsurance, how does the reinsurer get paid?
+
+> 🎯 **Great question!** This is different from proportional reinsurance.
+
+**Non-Proportional (Excess of Loss) - How the Reinsurer Gets Their Premium:**
+
+The insurance company (cedent) pays an **UPFRONT PREMIUM** to the reinsurer - it is NOT a split of their customer's premiums like in proportional reinsurance.
+
+| Method | How It Works |
+|--------|--------------|
+| **Flat Premium** | Fixed amount paid upfront for the coverage period |
+| **Rate on GNPI** | Calculated as a % of Gross Net Premium Income |
+| **Minimum & Deposit (MDP)** | Pay estimated premium in installments, adjust at year-end based on actual |
+
+> 🎯 **Plain English:** Think of it like buying catastrophe insurance for yourself. You pay a fixed premium each year for the protection. You don't share every dollar - you just pay for the safety net.
+>
+> **Example:**
+> - Your retention: $3M
+> - Your coverage: $7M excess of $3M (covers up to $10M total)
+> - You pay: Maybe $200,000/year as a premium to the reinsurer
+> - If you have $10M in wildfire claims: You pay $3M, reinsurer pays $7M
+> - If you have $0 in claims: You still paid $200,000, reinsurer keeps it (like any insurance premium)
+
+---
+
+### Q2: How does Premium Payment work in Proportional vs Non-Proportional?
+
+| Feature | Proportional | Non-Proportional |
+|---------|--------------|------------------|
+| **Premium to Reinsurer** | Fixed % of every premium collected | Upfront fee (flat or calculated) |
+| **When Reinsurer Pays** | Shares EVERY claim proportionally | Only pays claims ABOVE retention |
+| **Example** | 50/50 split = 50% of premiums go to reinsurer | Pay $200K/year, reinsurer covers claims above $3M |
+| **Sharing Philosophy** | "We share everything" | "You handle small stuff, I handle big stuff" |
+
+> 🎯 **Plain English:**
+> - **Proportional** = Business partner (share income AND expenses)
+> - **Non-Proportional** = Safety net (you pay a fee for catastrophe protection)
+
+---
+
+### Q3: What is a Ceding Commission?
+
+**Ceding Commission** = Money the REINSURER pays BACK to the insurance company to cover their admin/acquisition costs.
+
+| Type | How It Works |
+|------|--------------|
+| **Flat Commission** | Fixed % of ceded premium |
+| **Profit Commission** | Reinsurer shares profits if the book performs well |
+| **Sliding Scale** | Commission adjusts based on loss experience |
+
+> 🎯 **Plain English:** When you give business to a reinsurer, you've already spent money acquiring that customer (marketing, commissions to brokers, admin). The reinsurer pays you a "ceding commission" to cover those costs.
+>
+> **Common in:** Proportional treaties (where you're sharing premium anyway)
+>
+> **Less common in:** Non-proportional (since you're paying them a separate premium)
+
+---
+
+### Q4: What is a Reinstatement Premium?
+
+**Reinstatement Premium** = Extra payment to restore coverage after a big loss uses up the limit.
+
+> 🎯 **Plain English:** Imagine your non-proportional reinsurance covers up to $10M. A wildfire uses up that entire $10M limit. Your coverage is now exhausted!
+>
+> To restore the coverage for the rest of the year, you pay a **reinstatement premium** - basically buying the coverage again.
+>
+> **Types:**
+> - **Free reinstatement:** Already included in your original premium
+> - **Percentage:** Pay 50% or 100% of original premium to reinstate
+> - **Proportional:** Pay based on how much of the limit was used
+
+---
+
+### Q5: What happens to reinsurance rates in 2026?
+
+| Market | 2026 Trend |
+|--------|------------|
+| **Property Catastrophe** | Rates DOWN 14.7% (biggest drop since 2014) |
+| **Casualty XOL** | Rates DOWN 5-10% |
+| **Retrocession** | Pricing DOWN 16.5% |
+
+**Why are rates dropping?**
+- Plentiful reinsurance capacity
+- Strong insurer earnings in 2025
+- New market entrants
+- Insurance-Linked Securities (ILS) capital influx
+
+> 🎯 **Plain English:** It's currently a "soft market" for reinsurance - good news for insurance companies buying protection, they're paying less. But this can change if catastrophes hit hard.
+
+---
+
+### Q6: Do brokers/agents need to know this?
+
+> 💡 **From Transcript:** "So acquiring reinsurance is usually done by the insurance companies and the underwriters, so it's not typically something that brokers or agents even know about."
+
+**Short answer:** Not in daily practice, BUT for RIBO exams, yes!
+
+| Who | What They Need to Know |
+|-----|------------------------|
+| **Brokers/Agents** | Conceptual understanding (for exams and client questions) |
+| **Underwriters** | Detailed knowledge (they actually arrange reinsurance) |
+| **Customers** | Usually nothing (it's behind the scenes) |
+
+> 🎯 **Plain English:** You'll never quote reinsurance to a customer. But understanding it helps you explain why insurance companies can survive disasters and why your company might have capacity limits.
+
+---
+
+### Q7: What's the difference between "Attachment Point" and "Retention"?
+
+**They mean the same thing!**
+
+| Term | Used By | Meaning |
+|------|---------|---------|
+| **Retention** | Insurance company perspective | "What we keep/pay first" |
+| **Attachment Point** | Reinsurer perspective | "Where our coverage attaches/begins" |
+
+> 🎯 **Plain English:** Both refer to the threshold where reinsurance kicks in. It's just different words for the same concept depending on whose perspective you're viewing from.
+
+---
+
 ## 📚 Sources
 
 **Transcript:** RIBO Level 1 - Introduction to Insurance video (~17:04 - 22:00)

@@ -919,12 +919,82 @@ Written forms typically include:
 
 ---
 
+### Q10: What is a binder and when do you need one?
+
+| Feature | Details |
+|---------|---------|
+| **What it is** | Temporary proof of insurance |
+| **When issued** | Before full policy documents arrive |
+| **How long valid** | Until official policy is issued |
+| **Legal status** | Valid proof of coverage |
+
+> 🎯 **Plain English:** A binder is a "receipt" proving the client has insurance RIGHT NOW. The full policy documents can take days or weeks to arrive, but the binder proves they're covered in the meantime. Never let a client leave without at least a binder!
+
+---
+
+### Q11: What are the payment options for insurance premiums?
+
+| Method | Description |
+|--------|-------------|
+| **Cash** | Immediate payment |
+| **Check** | Personal or business |
+| **Debit Card** | Direct from bank |
+| **Credit Card** | Visa, MC, etc. |
+| **Third-Party Financing** | Monthly payments via finance company (with interest) |
+| **In-House Financing** | Some insurers offer their own payment plans |
+
+> 🎯 **Plain English:** Clients can pay all at once (full) or spread it out (financing). Premium financing companies charge interest, but make insurance affordable for those who can't pay a lump sum.
+
+---
+
+### Q12: What's the difference between a BMS and a CRM?
+
+| Tool | Purpose |
+|------|---------|
+| **BMS (Brokerage Management System)** | Insurance-specific: policies, commissions, claims, compliance |
+| **CRM (Client Relationship Management)** | General: client data, communications, follow-ups |
+
+> 🎯 **Plain English:** A BMS is a CRM built specifically for insurance brokers. Most brokerages use a BMS (like Applied Epic or Acturis) that includes CRM features.
+
+---
+
+### Q13: What documents must the client receive BEFORE leaving?
+
+| Document | Purpose | When Required |
+|----------|---------|---------------|
+| **Binder** | Temporary proof of insurance | Always (if policy not issued yet) |
+| **Confirmation Letter** | Written confirmation | Always |
+| **Liability Card (Pink Slip)** | Proof of auto insurance | Auto policies only |
+| **Receipt** | Proof of payment | After payment |
+
+> 🎯 **Plain English:** The client should NEVER leave without proof of coverage. Even if the full policy takes weeks to arrive, they need something to prove they're insured!
+
+---
+
+### Q14: Digital vs traditional policy issuance - what's the difference?
+
+| Traditional | Digital |
+|-------------|---------|
+| Paper documents mailed | Instant via portal/email |
+| Wait days or weeks | Available immediately |
+| Issue binder while waiting | Full policy right away |
+| Manual process | Automated |
+
+> 🎯 **Plain English:** Modern insurers can issue the full policy instantly through their digital systems - no waiting, no binder needed. Traditional insurers still take time to mail paper documents.
+
+---
+
 ## 🧠 Exam Tips
 
 > [!TIP]
 > **Memory Hooks:**
 > - **Initial Process = GCIC:** Greet → Conduct needs assessment → Identify insurer/products → Consent
 > - **Written App Benefits = ACE:** Accurate, Checklist → fewer errors → Evidence
+> - **Key App Info (9 items) = NLSP-LIBP:** Named insured, Loss payees, Subject, Policy term, Loss history, Insurance history, Broker report, Personal insights, Photos
+> - **Signatures = AHC:** Auto = Always, Home = Sometimes, Commercial = Rarely
+> - **Technology = COA:** CRMs → Online apps → Automation
+> - **Payment Options = 6 methods:** Cash, Check, Debit, Credit, Third-party financing, In-house financing
+> - **Documents Before Leaving = BCLR:** Binder, Confirmation letter, Liability card, Receipt
 
 ### Key Points to Remember:
 
@@ -934,16 +1004,21 @@ Written forms typically include:
 | **Consent** | Express for sensitive, Implied for obvious |
 | **TAC Rule** | Take All Comers - offer lowest rate, warn on gaps |
 | **Written vs Oral** | Written = safer, better documentation |
+| **Duty to Disclose** | False info = void policies + denied claims |
+| **Signatures** | Auto = always, Home = sometimes, Commercial = rarely |
+| **NEVER** | Sign a blank application (E&O risk!) |
+| **Binder** | Temporary proof until policy arrives |
 | **SABS 2026** | July 1 - modular system, more consumer choice |
 
 ---
 
 ## 📚 Sources
 
-**Transcript:** RIBO Level 1 - Introduction to Insurance video (~23:01 - 28:00)
+**Transcript:** RIBO Level 1 - Introduction to Insurance video (~23:01 - 35:00)
 
 **Online (2026):**
 - Registered Insurance Brokers of Ontario (RIBO)
 - PIPEDA / Office of the Privacy Commissioner of Canada
 - Financial Services Regulatory Authority of Ontario (FSRA)
 - Insurance Bureau of Canada (IBC)
+

@@ -119,6 +119,34 @@ Step 4: Get client consent (express or implied) before proceeding
 > 2. **Which product?** - Basic vs. comprehensive? What riders/endorsements?
 > 3. **Submit!** - Send the application to the insurance company for review and pricing
 
+#### Special Circumstances = Special Applications
+
+> 💡 **From Transcript:** "If they have some specific risks or special sort of circumstances, you might need specific applications for certain products. For example, if they have a home-based business, there might be an additional application you need to complete for that."
+
+| Situation | What You Need |
+|-----------|---------------|
+| Home-based business | Additional business application |
+| Pool or trampoline | Special liability questions |
+| Rental property | Landlord-specific application |
+| High-value items | Scheduled articles form |
+
+#### ⚠️ Duty to Disclose (CRITICAL!)
+
+> 💡 **From Transcript:** "Applicants and brokers have a duty to disclose all material facts and make accurate representations. The insurer relies on this and if any information given is false or intentionally omitted, this can lead to void policies and denied claims. So not good."
+
+| Who | Duty |
+|-----|------|
+| **Applicant** | Must disclose ALL material facts truthfully |
+| **Broker** | Must make accurate representations |
+| **Insurer** | Relies on this information to price/accept risk |
+
+> ⚠️ **Consequences of False/Omitted Information:**
+> - ❌ **Void policies** - Coverage cancelled as if it never existed
+> - ❌ **Denied claims** - No payment even if loss occurs
+> - ❌ **Legal action** - Potential fraud charges
+>
+> 🎯 **Plain English:** If a client lies on their application (or you help them lie), the insurer can cancel the policy AND refuse to pay claims. This is true even if the lie was unrelated to the claim!
+
 ---
 
 ### Step 4️⃣: Get Client Consent (Express or Implied)
@@ -197,6 +225,20 @@ There are **2 types** of insurance applications:
 > - HOW it was communicated
 > - WHAT was agreed to
 
+#### Required Procedures for Oral Applications:
+
+> 💡 **From Transcript:** "When it comes to oral applications, you need to make sure you take written notes. You need to outline what we talked about, who you talked to, and when you talked about it. If it's over the phone, maybe you need to record the calls and keep these records properly. So meaning you uploaded to your brokerage management system or you file it away somehow and also send written confirmation to the client of anything that you discussed."
+
+| Step | What to Do |
+|------|------------|
+| 1. Take written notes | What was discussed |
+| 2. Record calls | If over the phone (where legal) |
+| 3. Upload to BMS | Brokerage Management System |
+| 4. File properly | Keep organized records |
+| 5. **Send written confirmation** | Email/letter confirming what was discussed |
+
+> 🎯 **Plain English:** Even if you take an oral application, you MUST follow up with written confirmation. This protects you if the client later says "I never said that!"
+
 ---
 
 ### 2️⃣ Written Applications
@@ -216,6 +258,45 @@ There are **2 types** of insurance applications:
 | **1. Accurate & Checklist** | Standardized form ensures all questions asked | Nothing gets missed |
 | **2. Recommendations & Fewer Errors** | Forces structured approach | Reduces mistakes and omissions |
 | **3. Evidence of Coverage, Better Service & Legal Disclosures** | Creates paper trail | Protects broker AND client if disputes arise |
+
+#### Types of Application Forms:
+
+> 💡 **From Transcript:** "Brokers can use either their own or the insurer's application forms. CSIO also provides standardized applications that you can use for certain common businesses or common risks like home insurance."
+
+| Source | When to Use |
+|--------|-------------|
+| **Broker's own form** | Custom to your brokerage |
+| **Insurer's form** | Required by specific insurer |
+| **CSIO standardized** | Common risks (home, auto) |
+
+> 🎯 **Plain English:** CSIO (Centre for Study of Insurance Operations) provides standard forms that work across multiple insurers - saves time!
+
+#### Coverage & Risk Management Recommendations:
+
+> 💡 **From Transcript:** "The application also serves as a checklist to make sure you're asking all the right questions. It also gives coverage and risk management recommendations. For example, it might include a section on cyber insurance or have questions related to cyber security measures."
+
+**Cyber Insurance Example from Transcript:**
+
+> 💡 **From Transcript:** "If you're not able to say yes to certain cyber security measures, maybe that's something you need to investigate and something that you should invest in putting – for example, commonly backups. If you're looking to get cyber insurance and you take 'no' to the question of, 'do you back up your data?' This might be something you want to do."
+
+| Question on Form | What It Reveals |
+|------------------|-----------------|
+| "Do you back up your data?" | If NO → recommend they start backing up |
+| "Do you have antivirus?" | If NO → recommend they get it |
+| "Do you have a firewall?" | If NO → recommend they install one |
+
+> 🎯 **Plain English:** The application isn't just collecting info - it's identifying GAPS in the client's risk management. If they answer "no" to a security question, that's an opportunity to advise them!
+
+#### Legal & Privacy Disclosures:
+
+> 💡 **From Transcript:** "A lot of applications also have a legal and privacy disclosure in them. So if the client signs it, they're also agreeing to those legal and privacy disclosures. And remember to include notices about false or misleading statements and the repercussions of this to prevent insurance fraud."
+
+| What's Built Into Written Forms |
+|---------------------------------|
+| ✅ Privacy disclosure (PIPEDA compliance) |
+| ✅ Legal disclosures |
+| ✅ False statement warnings |
+| ✅ Fraud prevention notices |
 
 > 🎯 **Plain English - Why Written is Better:**
 >
@@ -430,6 +511,83 @@ There are **2 types** of insurance applications:
 | 9 | Photos/Risk Assessments | Visual proof for complex risks |
 
 > 🎯 **Memory Hook:** "**NLSP-LIBP**" = Named insured, Loss payees, Subject, Policy term, Loss history, Insurance history, Broker report, Personal insights, Photos
+
+---
+
+## ✍️ Part 4: Signatures (IMPORTANT!)
+
+> 💡 **From Transcript:** "Signatures are something great to have because it essentially indicates that the client has reviewed the information and they've agreed that it's accurate and correct."
+
+### Signature Requirements by Line of Business:
+
+> 💡 **From Transcript:** "When it comes to auto insurance policies, those are always signed. Home insurance applications are sometimes signed and commercial applications are rarely signed. So it can be or cannot be. It depends on the insurance company whether they require a signature on these applications or not."
+
+| Line of Business | Signature Required? |
+|------------------|---------------------|
+| **Auto Insurance** | ✅ ALWAYS signed |
+| **Home Insurance** | ⚡ SOMETIMES signed |
+| **Commercial** | ❌ RARELY signed |
+
+> 🎯 **Plain English:** Auto = always get a signature. Home = depends on insurer. Commercial = usually not required, but still recommended!
+
+---
+
+### Audio Signatures (Alternative to Written):
+
+> 💡 **From Transcript:** "You can also do what's called an audio signature where the client reads it out and agrees on a recorded call."
+
+| Method | How It Works |
+|--------|--------------|
+| **Audio Signature** | Client verbally reads and confirms on recorded call |
+| **When to Use** | Phone sales, remote clients |
+| **Record Keeping** | Keep the recording! |
+
+---
+
+### Why Get Signatures Even When Not Required?
+
+> 💡 **From Transcript:** "Even if signatures on applications are not mandatory, you should always still try to get a signature because while it may not be part of the policy, the policy is still based on the application and you want the client to confirm that the information on the application is correct."
+
+| Reason | Benefit |
+|--------|---------|
+| Client confirms accuracy | They can't later say "that's wrong" |
+| Legal responsibility | Client is legally responsible for answers |
+| E&O protection | You have proof they reviewed it |
+| Dispute resolution | Clear evidence if issues arise |
+
+> 💡 **From Transcript:** "So the applicant confirms that the statements are true and that they become legally responsible for the answers."
+
+---
+
+### ⚠️ NEVER Get a Client to Sign a Blank Application!
+
+> 💡 **From Transcript:** "You never ever want to get a client to sign a blank application form even if they are impatient. This is unethical and can lead to potential E&O claims if the information you've later put on there is not correct."
+
+| Why This Is Wrong | Consequence |
+|-------------------|-------------|
+| **Unethical** | Violates professional standards |
+| **E&O Risk** | If info is wrong, YOU'RE liable |
+| **Client dispute** | They can say "I never agreed to this!" |
+| **RIBO violation** | Could lose your license |
+
+> 🎯 **Plain English:** Even if the client says "just fill it in, I'll sign now" - DON'T DO IT. If you make any mistake, YOU are on the hook!
+
+---
+
+### Online Applications - Checkbox Requirement:
+
+> 💡 **From Transcript:** "When it comes to selling insurance online, which is becoming more and more of a thing, usually it doesn't require signatures, but you could have privacy issues if they're not expressly consenting to the insurer to investigate their information. For example, if they fill in some stuff and the insurance company runs a credit check or checks their driving record, there could be issues if the applicant hasn't signed off because they haven't consented for the information to be used in that way."
+
+> 💡 **From Transcript:** "So at least, even if you don't have a digital signature feature, you should have a 'I have read and confirmed' checkbox. When you sign up for an online service, sometimes you have to check the box that you've read all the terms and conditions and you've agreed to it, right? So similar thing here."
+
+| Minimum for Online Sales |
+|--------------------------|
+| ☑️ "I have read and confirmed" checkbox |
+| ☑️ Consent to credit/driving record checks |
+| ☑️ Privacy policy acknowledgment |
+| ☑️ Terms and conditions acceptance |
+
+> 🎯 **Plain English:** No signature feature on your portal? At MINIMUM, have a checkbox they must check before submitting. Otherwise, you have consent problems!
 
 ---
 

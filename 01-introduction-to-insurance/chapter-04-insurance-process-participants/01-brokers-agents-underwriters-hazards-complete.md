@@ -54,6 +54,11 @@ This section covers **the insurance purchase process**, **brokers vs agents**, *
 | **Broker** | Client's interest | Multiple insurers |
 | **Agent** | Insurer's interest | Usually ONE insurer |
 
+> [!TIP]
+> **Plain Dumb Down Version (Broker vs Agent):**
+> - **Broker**: You're like a personal shopper. You check with many different stores (insurers) to find the best deal for your friend (the client).
+> - **Agent**: You're like a store employee. You ONLY sell what your store (the insurer) has on the shelf. If they don't have it, you can't sell it!
+
 ---
 
 ### What Brokers Do:
@@ -118,6 +123,10 @@ This section covers **the insurance purchase process**, **brokers vs agents**, *
 | Brokers are FIRST to assess risk |
 | Initial eligibility determination |
 
+> [!TIP]
+> **Plain Dumb Down Version (Front Line Underwriter):**
+> You are the "Bouncer" at the door. Before the insurance company even sees the client, YOU look at them and decide if they even look like a good fit for the club (the insurer). If they look like trouble, you stop them right then and there!
+
 ---
 
 ## ⚠️ Part 3: E&O Claims (Errors & Omissions)
@@ -150,6 +159,13 @@ This section covers **the insurance purchase process**, **brokers vs agents**, *
 | 6 | **Agency agreement violations** | Break rules with insurer |
 | 7 | **Processing delays** | Renewals not processed on time |
 | 8 | **Binding authority violations** | Exceed what you can bind |
+
+> [!TIP]
+> **Plain Dumb Down Version (E&O Claims):**
+> E&O is "Oops" Insurance. It's for when YOU mess up.
+> - **Inadequate coverage**: "I only bought you $10, but your house is worth $100. Oops."
+> - **Binding violations**: "The boss said I can only sign for $500k, but I signed for $2 Million. Oops."
+> - **Inaccurate risk**: "I told the insurer you have a nice house, but I forgot to mention it's actually a fireworks factory. Oops."
 
 ---
 
@@ -225,6 +241,13 @@ This section covers **the insurance purchase process**, **brokers vs agents**, *
 
 > 🎯 **Plain English:** Underwriters are like gatekeepers - they decide which clients are good risks (accept) and which are bad risks (decline or charge more).
 
+> [!TIP]
+> **Plain Dumb Down Version (Risk Selection):**
+> Underwriters are looking for "Boring" people.
+> - Boring people pay their bills on time.
+> - Boring people don't have accidents.
+> - The company keeps the money (premium) and never has to pay it back (claims). That's a "Profitable Risk."
+
 ---
 
 ### 3 Information Sources for Risk Selection
@@ -261,6 +284,11 @@ This section covers **the insurance purchase process**, **brokers vs agents**, *
 |--------|
 | Condition that may CAUSE a peril |
 | 2 types: Physical and Moral |
+
+> [!TIP]
+> **Plain Dumb Down Version (Physical vs Moral Hazard):**
+> - **Physical Hazard**: Something you can see or touch (e.g., bad wiring, a slippery floor, old roof). It's a "Thing" that makes a loss more likely.
+> - **Moral Hazard**: Something about the person's character (e.g., they are a liar, they are broke and desperate, they just don't care). It's an "Attitude" that makes a loss more likely.
 
 ---
 

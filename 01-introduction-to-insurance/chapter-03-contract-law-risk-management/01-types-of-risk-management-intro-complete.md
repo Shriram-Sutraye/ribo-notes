@@ -25,6 +25,12 @@ This section covers **the three types of risk every client faces**, the differen
 | **Property Risk** | Damage to tangible THINGS |
 | **Liability Risk** | Causing harm to OTHERS |
 
+> [!TIP]
+> **Plain Dumb Down Version (Risk Types):**
+> - **Personal**: YOU get hurt (e.g., broken leg).
+> - **Property**: YOUR STUFF gets hurt (e.g., house fire).
+> - **Liability**: YOU hurt SOMEONE ELSE or their stuff (e.g., you crash into their car).
+
 ---
 
 ### 1️⃣ Personal Risk
@@ -107,6 +113,11 @@ This section covers **the three types of risk every client faces**, the differen
 | **Pure Risk** | You can ONLY lose | ✅ YES |
 | **Speculative Risk** | You might win OR lose | ❌ NO |
 
+> [!TIP]
+> **Plain Dumb Down Version (Pure vs Speculative):**
+> - **Pure Risk**: There is NO way you can win. If a hurricane hits your roof, you lose money. If no hurricane hits, you stay the same. You never "make a profit" from a hurricane. **(Insurable!)**
+> - **Speculative Risk**: You might get rich or go broke. If you bet $100 on a horse, you might win $1000 or lose $100. **(Not Insurable!)**
+
 ---
 
 ### Pure Risk (INSURABLE!)
@@ -175,6 +186,12 @@ This section covers **the three types of risk every client faces**, the differen
 | **Reduce consequences** | Minimize damage when loss occurs |
 | **Reduce probability** | Stop losses from happening |
 
+> [!TIP]
+> **Plain Dumb Down Version (RM Goals):**
+> Risk management is simply:
+> 1. Trying to stop bad things from happening.
+> 2. Making sure that if they DO happen, you don't go bankrupt.
+
 ### Cost vs Protection:
 
 | Loss Type | Protection Worth It? |
@@ -223,6 +240,10 @@ This section covers **the three types of risk every client faces**, the differen
 | **What they do** | Reduce impact of losses |
 | **Risks covered** | Strategic, financial, operational |
 
+> [!TIP]
+> **Plain Dumb Down Version (ERM):**
+> ERM is just "Risk Management for Big Companies." Since they are so huge, they hire a specific team to worry about everything from hackers to bad investments to accidents.
+
 > 🎯 **Plain English:** Big companies like Air Canada or banks have entire TEAMS dedicated to managing risk. That's ERM.
 
 ---
@@ -259,6 +280,14 @@ This section covers **the three types of risk every client faces**, the differen
 
 > 🎯 **Memory Hook:** **I.A.S.I.M.** = Identify, Analyze, Select, Implement, Monitor
 
+> [!TIP]
+> **Plain Dumb Down Version (The 5 Steps):**
+> 1. **Identify**: What can kill my business?
+> 2. **Analyze**: How likely is it and how expensive is it?
+> 3. **Select**: Should I ignore it, fix it, or buy insurance?
+> 4. **Implement**: Actually do the plan!
+> 5. **Monitor**: Check next year if the plan still makes sense.
+
 ---
 
 ## 🔍 Part 5: Step 1 - Identify Exposures (Deep Dive)
@@ -283,6 +312,13 @@ This section covers **the three types of risk every client faces**, the differen
 | **1. Cause of loss** | Fire, cyber attack, theft, terrorist attack |
 | **2. Financial consequences** | How much money would we lose? |
 | **3. Objects/items at risk** | What can be exposed to loss? |
+
+> [!TIP]
+> **Plain Dumb Down Version (3 Elements of Exposure):**
+> Every risk has three parts:
+> 1. **The Peril**: What's the "Bad Thing" (Fire).
+> 2. **The Result**: What's the "Bill" ($50,000 damage).
+> 3. **The Target**: What's the "Stuff" (The warehouse).
 
 ### 📋 Transcript Example: Building
 
@@ -311,6 +347,10 @@ This section covers **the three types of risk every client faces**, the differen
 | **Work charts** | Organizational structure |
 | **Consultants** | Expert opinions |
 
+> [!TIP]
+> **Plain Dumb Down Version (Risk Inventory):**
+> This is a "Checklist for Risks." You look at everything from bank statements to employee charts to figure out all the ways the business could fail.
+
 ---
 
 ### Why Each Matters:
@@ -336,6 +376,11 @@ This section covers **the three types of risk every client faces**, the differen
 |------|------|---------|
 | **Pre-loss objectives** | BEFORE a loss | Prevent or prepare |
 | **Post-loss objectives** | AFTER a loss | Recover and survive |
+
+> [!TIP]
+> **Plain Dumb Down Version (Pre-loss vs Post-loss):**
+> - **Pre-loss**: All the stuff you do to *prepare* (e.g., buying insurance, checking fire alarms).
+> - **Post-loss**: All the stuff you do to *survive* after the fire trucks leave (e.g., renting a new office so you can stay in business).
 
 ---
 

@@ -27,6 +27,15 @@ This section covers **how to finance retained losses** (5 methods), the **large 
 | 4 | **Borrowing** | Take out a loan |
 | 5 | **Captive Insurance** | Your own insurance company |
 
+> [!TIP]
+> **Plain Dumb Down Version (Financing Losses):**
+> If you decide to pay for a loss yourself, you need a plan for the money:
+> 1. **Current Expenses**: Pay with this month's paycheck.
+> 2. **Unfunded Reserve**: An empty bank account just for tracking "Ouch" costs.
+> 3. **Funded Reserve**: A piggy bank with actual cash saved up for a rainy day.
+> 4. **Borrowing**: Using a credit card or loan (not great in a crisis!).
+> 5. **Captive**: A giant company (like Air Canada) starting their own private insurance company.
+
 ---
 
 ### 1️⃣ Current Expenses
@@ -139,6 +148,11 @@ This section covers **how to finance retained losses** (5 methods), the **large 
 | **Large** (devastating) | **Transfer** (insurance) | Can't afford to pay yourself |
 | **Small** (minor) | **Retain** (pay yourself) | Cheaper than insurance |
 
+> [!TIP]
+> **Plain Dumb Down Version (Large vs Small Loss):**
+> - **Large Loss**: A house fire. You can't pay for it yourself. **Buy Insurance.**
+> - **Small Loss**: A broken microwave. Insurance is too expensive for this. **Pay for it yourself.**
+
 ---
 
 ### 📋 Transcript Example: Combination Approach
@@ -165,6 +179,11 @@ This section covers **how to finance retained losses** (5 methods), the **large 
 |------|----------------|--------------|
 | **Technical** | Line authority | Direct staff to take actions |
 | **Managerial** | Staff authority | Advise but not direct |
+
+> [!TIP]
+> **Plain Dumb Down Version (Authority Types):**
+> - **Line Authority**: The Boss. They say "Do this now!" (Technical decisions).
+> - **Staff Authority**: The Advisor. They say "You should probably do this." (Managerial decisions).
 
 ---
 
@@ -231,6 +250,10 @@ This section covers **how to finance retained losses** (5 methods), the **large 
 | **Training** | Everyone knows what to do |
 | **Up to date** | Constantly reviewed |
 
+> [!TIP]
+> **Plain Dumb Down Version (Emergency Response):**
+> This is a fire drill plan. It needs to be simple, practiced often, and everyone needs to know who's in charge *before* the smoke starts.
+
 ---
 
 ### Emergency Response Team
@@ -273,12 +296,11 @@ This section covers **how to finance retained losses** (5 methods), the **large 
 
 > 💡 **From Transcript (1303s):** "For example, contact lists of people to reach out to including names, phone numbers, emails as well as their physical addresses."
 
-| Contact List Should Include |
-|----------------------------|
-| Names |
-| Phone numbers |
-| Email addresses |
-| Physical addresses |
+| **Physical addresses** | |
+
+> [!TIP]
+> **Plain Dumb Down Version (Contact Lists):**
+> Don't just have names. Have every way to find them - phone, email, and even where they live, in case the internet or cell towers go down!
 
 ---
 
@@ -315,6 +337,10 @@ This section covers **how to finance retained losses** (5 methods), the **large 
 | Modify as necessary |
 | Improve loss ratios |
 | Keep up with business changes |
+
+> [!TIP]
+> **Plain Dumb Down Version (Step 5: Monitoring):**
+> This is the "How are we doing?" phase. Once a year, you check: "Is our plan actually working? Are we losing more money than we expected? Do we need to fix anything?"
 
 ---
 
@@ -353,6 +379,10 @@ This section covers **how to finance retained losses** (5 methods), the **large 
 | **During renewal period** |
 | When gathering underwriting info |
 
+> [!TIP]
+> **Plain Dumb Down Version (Review Timing):**
+> The best time to check your insurance plan is when it's time to pay for next year (Renewal). It's the "Insurance Physical" for your business.
+
 > 🎯 **Plain English:** Perfect time to review risk management is when you're renewing the policy anyway!
 
 ---
@@ -365,6 +395,11 @@ This section covers **how to finance retained losses** (5 methods), the **large 
 |---------------|------------------|
 | **Activity Standards** | What activities to do |
 | **Performance Standards** | How well you're doing |
+
+> [!TIP]
+> **Plain Dumb Down Version (Standards):**
+> - **Activity Standards**: "Did we check the fire extinguishers every month?" (Did we do the chores?)
+> - **Performance Standards**: "Did we have zero fires this year?" (Did the chores work?)
 
 ---
 
@@ -414,6 +449,10 @@ This section covers **how to finance retained losses** (5 methods), the **large 
 | Look at past losses |
 | Predict future exposures |
 | **Rule:** If it happened before, it will happen again! |
+
+> [!TIP]
+> **Plain Dumb Down Version (Predicting the Future):**
+> History repeats itself. If you look at other businesses like yours and see they always have water leaks, you'd better plan for water leaks!
 
 ---
 

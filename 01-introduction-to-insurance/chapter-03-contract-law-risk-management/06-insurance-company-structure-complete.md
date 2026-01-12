@@ -19,11 +19,11 @@ This section covers **how insurance companies are structured** with the **5 main
 
 ### What Happens If You Violate Binding Agreement?
 
-| Step | What Happens |
-|------|--------------|
-| 1. Broker binds unauthorized risk | Exceeds binding authority |
-| 2. Insurer pays claim | Still obligated to customer |
 | 3. Insurer subrogates | Comes after BROKER for money |
+
+> [!TIP]
+> **Plain Dumb Down Version (Binding Violations):**
+> If you "accidentally" insure a fireworks factory when your boss said "No fireworks," and it blows up - the insurance company has to pay the factory owner. But then the insurance company will come after YOU (the broker) to get that money back because you broke the rules!
 
 > 🎯 **Plain English:** If you bind something you weren't supposed to and there's a claim, the insurer will pay the customer - but then come after YOU for the money!
 
@@ -51,12 +51,11 @@ This section covers **how insurance companies are structured** with the **5 main
 
 ### Admin Department - 4 Areas:
 
-| Area | Responsibilities |
-|------|------------------|
-| **HR** | Hiring, training, assisting employees |
-| **Legal** | Compliance with provincial/federal statutes |
-| **Materials Management** | Buildings, equipment, vehicles, forms |
 | **Management Information Systems (IT)** | Data, reports, software, hardware, help desk |
+
+> [!TIP]
+> **Plain Dumb Down Version (Admin):**
+> The "Background Crew." They keep the lights on, hire the people, make sure everyone follows the laws, and fix the computers when they break.
 
 ---
 
@@ -119,15 +118,11 @@ This section covers **how insurance companies are structured** with the **5 main
 
 ### Finance Department Responsibilities:
 
-| Task | Details |
-|------|---------|
-| **Broker statements** | "You owe us this much in net premiums" |
-| **Accounts payable** | What the company owes |
-| **Accounts receivable** | What's owed to the company |
-| **Payroll and benefits** | Employee compensation |
-| **Investments** | Invest premiums to earn return |
-| **Financial reports** | To government and management |
 | **Commission statements** | Send to brokers |
+
+> [!TIP]
+> **Plain Dumb Down Version (Finance):**
+> The "Money Nerds." They keep track of every penny coming in (premiums) and every penny going out (commissions/rent). They also take the big pile of money and invest it in the stock market to make even more money.
 
 ---
 
@@ -172,15 +167,11 @@ This section covers **how insurance companies are structured** with the **5 main
 
 ### Underwriting Responsibilities:
 
-| Task | Details |
-|------|---------|
-| **Gather statistics** | For pricing |
-| **Price products profitably** | Charge enough for losses + expenses |
-| **Determine which risks to write** | Accept or decline |
-| **Handle broker binding authority** | Set limits for each broker |
-| **Create underwriting criteria** | Rules for what to accept |
-| **Issue policies and renewals** | New and continuing business |
 | **Process cancellations** | End of policies |
+
+> [!TIP]
+> **Plain Dumb Down Version (Underwriting):**
+> The "Gatekeepers." They are the most important part because they decide who gets in (who we insure) and how much they have to pay (the price). They create the "Menu" and the "Rules."
 
 > 🎯 **Plain English:** Underwriting decides what to sell, how much to charge, and who can sell it. They're the heart of the insurance company!
 
@@ -192,13 +183,11 @@ This section covers **how insurance companies are structured** with the **5 main
 
 ### Claims Department Responsibilities:
 
-| Task | Details |
-|------|---------|
-| **Investigate claims** | Properly verify losses |
-| **Pay according to indemnity** | Make client whole again |
-| **Pay out claims** | Issue payments |
-| **Coordinate with vendors** | Arrange repairs |
 | **All claims activities** | Start to finish |
+
+> [!TIP]
+> **Plain Dumb Down Version (Claims):**
+> The "Investigators." When something goes wrong, they show up to find out: "Did this really happen? How much is it worth?" and then they hand out the check.
 
 ---
 
@@ -219,14 +208,11 @@ This section covers **how insurance companies are structured** with the **5 main
 
 ### Marketing Department Responsibilities:
 
-| Task | Details |
-|------|---------|
-| **Ensure growth** | Expand the company |
-| **Ensure profitability** | Make money |
-| **Develop products** | What consumers want |
-| **Distribute to brokers** | Get products to market |
-| **Engage with brokers** | Present new/updated products |
 | **Advertising campaigns** | Online and other media |
+
+> [!TIP]
+> **Plain Dumb Down Version (Marketing):**
+> The "Salespeople." Their job is to tell brokers "Our insurance is better than the other guys! Come sell OUR stuff!" They also run those annoying and funny commercials you see on TV.
 
 ---
 

@@ -1,19 +1,21 @@
-# 📊 Chapter 07 - VERIFICATION SUMMARY
+# 📊 Chapter 07 - DEEP VERIFICATION SUMMARY
 # Commercial Property Insurance
 
-> **Created:** 2026-01-11 | **Video Duration:** ~38 min (0s - 2283s)
+> **Created:** 2026-01-11 | **Updated:** 2026-01-12 | **Video Duration:** ~38 min (0s - 2283s)
 
 ---
 
-## ✅ FILES CREATED
+## ✅ FILES CREATED (Enhanced with Full Dumb Downs)
 
-| # | File | Timestamp | Topics |
-|---|------|-----------|--------|
-| 1 | `01-basics-named-perils-rate-setting.md` | 0:00-6:03 | Small/large risks, FSWILLER, rate setting |
-| 2 | `02-property-classes-coinsurance.md` | 6:03-15:10 | Building/Stock/Equipment, Co-insurance |
-| 3 | `03-clauses-mechanical-breakdown.md` | 15:11-23:01 | Subrogation, Reinstatement, MBI |
-| 4 | `04-contractors-insurance.md` | 23:01-31:29 | Builders Risk, Floaters |
-| 5 | `05-crime-business-interruption.md` | 31:29-38:03 | Crime, BI Insurance |
+| # | File | Timestamp | Topics | Dumb Downs |
+|---|------|-----------|--------|------------|
+| 1 | `01-basics-named-perils-rate-setting.md` | 0:00-6:03 | Small/large risks, FSWILLER, rate setting | 10+ |
+| 2 | `02-property-classes-coinsurance.md` | 6:03-15:10 | Building/Stock/Equipment, Co-insurance | 15+ |
+| 3 | `03-clauses-mechanical-breakdown.md` | 15:11-23:01 | Subrogation, Reinstatement, MBI | **22 sections** |
+| 4 | `04-contractors-insurance.md` | 23:01-31:29 | Builders Risk, Floaters | 12+ |
+| 5 | `05-crime-business-interruption.md` | 31:29-38:03 | Crime, BI Insurance | 10+ |
+
+**Total: 70+ Plain Dumb Down explanations added across all files**
 
 ---
 
@@ -22,31 +24,50 @@
 | Topic | Covered | Dumb Down |
 |-------|---------|-----------|
 | Small vs large risks | ✅ | ✅ |
-| Package policy pros/cons | ✅ | ✅ |
+| Package policy pros/cons (standardization issue) | ✅ | ✅ |
 | FSWILLER (8 named perils) | ✅ | ✅ |
-| Broad form coverage | ✅ | ✅ |
+| Broad form coverage (5 additions) | ✅ | ✅ |
 | Fire rate + 5 factors | ✅ | ✅ |
 | Building definition (shake test) | ✅ | ✅ |
-| Stock (peak season endorsement) | ✅ | ✅ |
-| Equipment (tenant improvements) | ✅ | ✅ |
+| Stock (peak season endorsement, bailee) | ✅ | ✅ |
+| Equipment (tenant improvements, leased) | ✅ | ✅ |
 | Co-insurance formula | ✅ | ✅ |
-| Co-insurance waiver | ✅ | ✅ |
+| Co-insurance waiver (2% or $5K) | ✅ | ✅ |
+| Stated amount of co-insurance | ✅ | ✅ |
 | Subrogation clause | ✅ | ✅ |
+| Net recovery split | ✅ | ✅ |
+| Cannot release liability | ✅ | ✅ |
 | Reinstatement clause | ✅ | ✅ |
-| Protection systems | ✅ | ✅ |
+| Debris removal | ✅ | ✅ |
+| Protection systems + breach consequences | ✅ | ✅ |
+| Property away from premises | ✅ | ✅ |
+| In transit conditions | ✅ | ✅ |
 | Locked vehicle warranty | ✅ | ✅ |
-| Glass & Valuable papers | ✅ | ✅ |
-| Mechanical Breakdown | ✅ | ✅ |
+| Common carriers exempt | ✅ | ✅ |
+| Bailee for hire | ✅ | ✅ |
+| Glass insurance | ✅ | ✅ |
+| Valuable papers & records | ✅ | ✅ |
+| Mechanical Breakdown Insurance | ✅ | ✅ |
+| MBI exclusions (safety device) | ✅ | ✅ |
+| Insurer inspection rights | ✅ | ✅ |
 | Builders Risk / COC | ✅ | ✅ |
+| COC policy period & limits | ✅ | ✅ |
+| COC premium structure | ✅ | ✅ |
+| Per project vs blanket | ✅ | ✅ |
 | Equipment Floater | ✅ | ✅ |
 | Installation Floater | ✅ | ✅ |
-| Tool Floater | ✅ | ✅ |
-| Burglary/Robbery/Theft | ✅ | ✅ |
+| Tool Floater (mysterious disappearance) | ✅ | ✅ |
+| Mercantile burglary | ✅ | ✅ |
+| Safe burglary | ✅ | ✅ |
+| Robbery (custodian) | ✅ | ✅ |
+| Theft (broadest) | ✅ | ✅ |
+| Money & securities | ✅ | ✅ |
 | Gross Earnings form | ✅ | ✅ |
 | Profits form | ✅ | ✅ |
 | Extra Expenses | ✅ | ✅ |
+| BI is endorsement (same perils) | ✅ | ✅ |
 
-**Total: 24 major topics ✅**
+**Total: 43 major topics ✅**
 
 ---
 

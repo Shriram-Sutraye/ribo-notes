@@ -23,18 +23,21 @@ This section covers **what the Insurance Act requires** - what must appear on th
 | Varies from province to province |
 | Enforced by the provincial regulator |
 
+> [!TIP]
+> **Plain Dumb Down Version (Insurance Act):**
+> The "Rulebook." It's the law that tells insurance companies what they are allowed to do and what they MUST include in your policy. Each province has its own slightly different version.
+
 ---
 
 ## 📄 Part 2: Declarations Page (Dec Page) - 6 Required Items
 
 > 💡 **From Transcript (223s-226s):** "The first thing concerns the contents of insurance policies. These following things must appear on the Declaration's page, sometimes called the Dec page, and is usually the first page of all policies."
 
-### What is the Dec Page?
-
-| Term | Definition |
-|------|------------|
-| **Declarations Page (Dec Page)** | Usually the FIRST page of all policies |
 | **Purpose** | Shows key policy information at a glance |
+
+> [!TIP]
+> **Plain Dumb Down Version (Dec Page):**
+> The "Cover Letter" or "Summary Page." If you don't want to read a 50-page boring document, just look at this page. It has all the important details like your name, your address, and how much you paid.
 
 ---
 
@@ -48,6 +51,10 @@ This section covers **what the Insurance Act requires** - what must appear on th
 | **Insured** | John Smith, ABC Corp |
 
 > 🎯 **Plain English:** Who's in the deal? The insurer (the company) and the insured (you).
+
+> [!TIP]
+> **Plain Dumb Down Version (Parties):**
+> "Who's who." It lists the Insurance Company (the guys with the money) and You (the person paying them).
 
 ---
 
@@ -67,6 +74,10 @@ This section covers **what the Insurance Act requires** - what must appear on th
 | Leasing company (if leased equipment) |
 
 > 🎯 **Plain English:** If you have a mortgage, the BANK also gets listed. If something burns down, they want their money too!
+
+> [!TIP]
+> **Plain Dumb Down Version (Loss Payees):**
+> "Who else gets paid." If you owe the bank money for your house, they are a Loss Payee. If the house burns down, the check goes to BOTH you and the bank.
 
 ---
 
@@ -90,6 +101,10 @@ This section covers **what the Insurance Act requires** - what must appear on th
 
 > 🎯 **Plain English:** The default is midnight at YOUR address. But some policies change this to the property's location. READ THE QUESTION CAREFULLY on the exam!
 
+> [!TIP]
+> **Plain Dumb Down Version (Policy Period):**
+> "When it starts." Standard law says it starts at 12:01 AM (just past midnight). If you buy insurance on Monday, you aren't covered until Tuesday morning at 12:01 AM.
+
 ---
 
 ### 4️⃣ Coverage and Amount of Insurance
@@ -102,6 +117,10 @@ This section covers **what the Insurance Act requires** - what must appear on th
 | **Limits** | $500,000 dwelling, $100,000 contents |
 
 > 🎯 **Plain English:** What's covered and how much money you get if there's a claim.
+
+> [!TIP]
+> **Plain Dumb Down Version (Coverage & Amounts):**
+> "The Safety Net." It lists exactly what bad things you're protected from (like Fire) and the most money the company will ever pay you (the Limit).
 
 ---
 
@@ -116,6 +135,10 @@ This section covers **what the Insurance Act requires** - what must appear on th
 
 > 🎯 **Plain English:** WHAT are we insuring and WHERE is it? Your house at this address.
 
+> [!TIP]
+> **Plain Dumb Down Version (Subject Matter):**
+> "What and Where." It says exactly what is being insured (like a house, a car, or a diamond ring) and where it lives.
+
 ---
 
 ### 6️⃣ Rates and Premiums
@@ -128,6 +151,10 @@ This section covers **what the Insurance Act requires** - what must appear on th
 | **Rate** | $0.50 per $100 of value |
 
 > 🎯 **Plain English:** How much does this insurance cost?
+
+> [!TIP]
+> **Plain Dumb Down Version (Rates & Premiums):**
+> "The Price Tag." The Premium is the total bill you pay. The Rate is how they calculated that bill (like $X per $1000 of value).
 
 ---
 
@@ -148,13 +175,11 @@ This section covers **what the Insurance Act requires** - what must appear on th
 
 > 💡 **From Transcript (305s-316s):** "The next thing stipulated by the insurance act is the fire policy. This is the most basic coverage and all property policies must offer coverage for fire and two additional perils. So fire means a condition that results in destructive burning."
 
-### Fire Policy Definition:
-
-| Fire Policy |
-|-------------|
-| The **most basic coverage** |
-| **All property policies MUST** offer fire coverage |
 | Plus **2 additional perils** |
+
+> [!TIP]
+> **Plain Dumb Down Version (Fire Policy):**
+> The "Minimum Requirement." Every property insurance MUST at least cover Fire, Lightning, and Gas Explosions. It's the bottom-tier protection everyone gets.
 
 ---
 
@@ -171,18 +196,22 @@ This section covers **what the Insurance Act requires** - what must appear on th
 
 > 🎯 **Plain English:** If firefighters smash your door down and flood your house with water to put out a fire, THAT'S COVERED! The fire policy covers the fire AND the damage from fighting the fire.
 
+> [!TIP]
+> **Plain Dumb Down Version (Fire Fighting Damage):**
+> If the fire doesn't destroy your house, but the 1,000 gallons of water from the fire truck DOES, the insurance company still pays. They cover the "Side Effects" of putting out the fire.
+
 ---
 
 ## 🔥 Friendly Fire vs. Hostile Fire
 
 > 💡 **From Transcript (336s-352s):** "So there are two kinds of fire. You have friendly fire and hostile fire. A friendly fire is deliberate and contained application of fire for beneficial purposes. A hostile fire is one that is not contained and has destructive effects. Only damage caused by hostile fires are insurable."
 
-### Definitions:
-
-| Type | Definition | Covered? |
-|------|------------|----------|
-| **Friendly Fire** | Deliberate and CONTAINED for beneficial purpose | ❌ NOT covered |
 | **Hostile Fire** | NOT contained, has DESTRUCTIVE effects | ✅ COVERED |
+
+> [!TIP]
+> **Plain Dumb Down Version (Friendly vs Hostile):**
+> - **Friendly**: A fire you INVITED (like in a candle or a stove).
+> - **Hostile**: A fire that's "Gone Rogue." It's escaped and is burning stuff you didn't want it to burn.
 
 ---
 
@@ -200,6 +229,10 @@ This section covers **what the Insurance Act requires** - what must appear on th
 > - **Spark escapes and burns carpet** = You did NOT want that → COVERED
 >
 > **The moment it escapes containment, it becomes hostile and insurable!**
+
+> [!TIP]
+> **Plain Dumb Down Version (Escaping Fire):**
+> If a log falls out of your fireplace and burns your rug, it just switched from "Friendly" to "Hostile." Now the rug damage is covered!
 
 ---
 
@@ -222,12 +255,14 @@ This section covers **what the Insurance Act requires** - what must appear on th
 | ❌ Explosion of **boilers** |
 | ❌ Explosion of **pressure vessels** |
 
-> 🎯 **Plain English:** Fire policy covers:
-> 1. Fire (when it's hostile)
-> 2. Lightning hits your house
-> 3. Natural gas explosion
->
 > But NOT steam boiler explosions or pressure tank explosions - those need separate coverage!
+
+> [!TIP]
+> **Plain Dumb Down Version (The 3 Perils):**
+> 1. Fire (The bad kind).
+> 2. Lightning (Sky electricity).
+> 3. Gas Leak Explosion (Boom!).
+> That's it. Nothing else counts as a "Basic Fire Policy."
 
 ---
 
@@ -235,12 +270,11 @@ This section covers **what the Insurance Act requires** - what must appear on th
 
 > 💡 **From Transcript (391s-403s):** "Next is the removal clause. So this covers your property for up to seven days if you have to move it to another location not stated on the policy in order to prevent loss or further loss. This is called necessary removal."
 
-### Definition:
-
-| Term | Definition |
-|------|------------|
-| **Removal Clause** | Covers property at a NEW location for up to **7 days** |
 | **Necessary Removal** | Moving property to prevent loss or further loss |
+
+> [!TIP]
+> **Plain Dumb Down Version (Removal Clause):**
+> "The 7-Day Window." If you grab your TV and run to a storage locker because your house is on fire, the TV is covered at that storage locker for exactly 7 days. After that, you're on your own.
 
 ---
 
@@ -248,10 +282,11 @@ This section covers **what the Insurance Act requires** - what must appear on th
 
 > 💡 **From Transcript (406s-414s):** "The limits available at the new location is the amount left after paying for the loss at the primary location. Essentially what this means is that your one limit is shared between the two locations."
 
-| Key Point |
-|-----------|
-| The limit is **SHARED** between both locations |
 | NOT double limits! |
+
+> [!TIP]
+> **Plain Dumb Down Version (Shared Limits):**
+> You have ONE bucket of money. If you spend most of it on the house fire, there's only a little bit left in the bucket for the stuff you moved to safety.
 
 ---
 
@@ -276,6 +311,10 @@ New Location (Storage Unit - 7 days):
 
 > 🎯 **Plain English:** If you have $100K coverage and your house has $80K in damage, you only have $20K left for the stuff you moved to storage. The limit doesn't double!
 
+> [!TIP]
+> **Plain Dumb Down Version (Math Example):**
+> Total Insurance = $10. House Burns = $8. You only have $2 left for your salvaged property. $8 + $2 = $10. You don't magically get another $10 for the new location.
+
 ---
 
 ### Why Removal Clause Matters
@@ -287,6 +326,10 @@ New Location (Storage Unit - 7 days):
 | ❌ Property at unstated location = NO coverage | ✅ 7 days of coverage during emergency |
 
 > 🎯 **Plain English:** Normally, if your stuff isn't at the address on the policy, you have NO coverage. The removal clause gives you 7 days of protection if you HAD to move it to save it from damage.
+
+> [!TIP]
+> **Plain Dumb Down Version (Why it exists):**
+> Usually, the insurance company only covers stuff at YOUR house. If you move it, they stop covering it. This clause is a "Grace Period" so you aren't afraid to move your stuff during a disaster.
 
 ---
 

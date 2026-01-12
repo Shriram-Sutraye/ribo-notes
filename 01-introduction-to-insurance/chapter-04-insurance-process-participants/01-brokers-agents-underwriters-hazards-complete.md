@@ -19,12 +19,11 @@ This section covers **the insurance purchase process**, **brokers vs agents**, *
 
 ### Application Process:
 
-| Step | What Happens |
-|------|--------------|
-| 1. Application filled | Most risks require one |
-| 2. Information collected | Determines quality of risk |
-| 3. Underwriting | Insurer decides to accept/decline |
 | 4. Policy issued | If accepted |
+
+> [!TIP]
+> **Plain Dumb Down Version (Purchase Process):**
+> It's like applying for a credit card. You fill out a form (application) so they can decide if they trust you. If they like what they see, they give you the card (policy).
 
 ---
 
@@ -32,12 +31,15 @@ This section covers **the insurance purchase process**, **brokers vs agents**, *
 
 > 💡 **From Transcript (25s-43s):** "Your cost of insurance will change depending on several factors, including your location, the amount of insurance that you've selected, the coverages that you've selected, as well as the history of the applicant, such as your claims history or payment habits."
 
-| # | Factor | Example |
-|---|--------|---------|
-| 1 | **Location** | High crime area = higher premium |
-| 2 | **Amount of insurance** | More coverage = more cost |
-| 3 | **Coverages selected** | More perils = more cost |
 | 4 | **History** | Claims history, payment habits |
+
+> [!TIP]
+> **Plain Dumb Down Version (Price Factors):**
+> Your price depends on:
+> 1. **Location**: Is your neighborhood safe?
+> 2. **Amount**: How much stuff are we covering?
+> 3. **Coverage**: Do you want the "Gold Package" or "Basic"?
+> 4. **History**: Do you pay your bills or do you crash your car every month?
 
 > 🎯 **Plain English:** Where you live, how much coverage you want, what's covered, and your past history all affect your price!
 
@@ -65,12 +67,11 @@ This section covers **the insurance purchase process**, **brokers vs agents**, *
 
 > 💡 **From Transcript (58s-77s):** "Brokers are there to represent the clients' interest. They determine the clients' insurance needs and helps them select the appropriate insurer. As a broker, we have a duty to clients and policy holders. So we have a legal requirement to exercise reasonable skill, care and diligence in the performance of our work."
 
-| Broker Responsibilities |
-|------------------------|
-| Represent client's interest |
-| Determine insurance needs |
-| Help select appropriate insurer |
 | Exercise reasonable skill, care, diligence |
+
+> [!TIP]
+> **Plain Dumb Down Version (Broker's Duty):**
+> Your broker is basically your "Insurance Lawyer." They have a legal duty to fight for YOU, settle for nothing less than the best deal, and make sure you understand what you're buying.
 
 ---
 
@@ -78,12 +79,11 @@ This section covers **the insurance purchase process**, **brokers vs agents**, *
 
 > 💡 **From Transcript (187s-227s):** "An agent represents the insurer's interest, so depending on what we're doing, we're either a broker representing the client or we're an agent representing the insurer. In reality we're both, and so a lot of the times these terms are used interchangeably."
 
-| Agent Characteristics |
-|----------------------|
-| Represents insurer's interest |
-| Has binding authority |
-| Sells products for ONE company |
 | Contracted with that company |
+
+> [!TIP]
+> **Plain Dumb Down Version (Agent's Duty):**
+> An agent works for the "House." Their loyalty is to the company that signs their paycheck. They can be helpful, but remember—they are selling their own brand's cookies.
 
 ---
 
@@ -188,11 +188,11 @@ This section covers **the insurance purchase process**, **brokers vs agents**, *
 
 > 💡 **From Transcript (66s-77s):** "As a broker, we have a duty to clients and policy holders. So we have a legal requirement to exercise reasonable skill, care and diligence in the performance of our work."
 
-| Duty to Clients |
-|-----------------|
-| Reasonable **skill** |
-| Reasonable **care** |
 | **Diligence** in work |
+
+> [!TIP]
+> **Plain Dumb Down Version (Duty to Client):**
+> "Don't be lazy." If a client asks for flood insurance and you forget to add it, that's on you. You have to be awake, alert, and doing your best at all times.
 
 ---
 
@@ -205,12 +205,11 @@ This section covers **the insurance purchase process**, **brokers vs agents**, *
 | **Tell the truth** |
 | **Don't conceal** important info |
 
-| Failure Consequences |
-|---------------------|
-| Financial loss to insurer |
-| Financial loss to clients |
-| You can get sued |
 | E&O insurance covers this |
+
+> [!TIP]
+> **Plain Dumb Down Version (Duty to Insurer):**
+> "Don't lie to the boss." You represent the insurance company too. If the client tells you they store dynamite in the basement, you HAVE to tell the insurer. Hiding it = you get sued.
 
 ---
 
@@ -220,12 +219,11 @@ This section covers **the insurance purchase process**, **brokers vs agents**, *
 
 ### What are Underwriters?
 
-| Underwriters |
-|--------------|
-| Insurance company employees |
-| **Non-client facing** |
-| **Don't need a license** |
 | Specialized training required |
+
+> [!TIP]
+> **Plain Dumb Down Version (Underwriters):**
+> The "Desk Job" people. They sit in the back office, never talk to clients, and just look at paperwork all day to decide who gets insurance and who doesn't.
 
 ---
 
@@ -254,11 +252,14 @@ This section covers **the insurance purchase process**, **brokers vs agents**, *
 
 > 💡 **From Transcript (280s-327s):** "Where do they get information to figure out what risks to take and what risks to pass on?"
 
-| # | Source | What It Shows |
-|---|--------|---------------|
-| 1 | **Application form** | Risk info, hazards |
-| 2 | **Broker** | Personal/business reputation |
 | 3 | **Inspection reports** | Hazards on commercial risks |
+
+> [!TIP]
+> **Plain Dumb Down Version (Info Sources):**
+> How do they know if you're risky?
+> 1. **Application**: What you told them.
+> 2. **Broker**: What your broker told them ("Yeah, he's a good guy").
+> 3. **Inspections**: Sending a pro to physically look at your building.
 
 ---
 
@@ -266,11 +267,11 @@ This section covers **the insurance purchase process**, **brokers vs agents**, *
 
 > 💡 **From Transcript (314s-327s):** "Thirdly, they might look at inspection reports. These help them evaluate the hazards typically on commercial risks. Inspection reports are usually provided by the Insurers Advisory Organization, IAO, as well as some other organizations from time to time."
 
-| Inspection Reports |
-|-------------------|
-| For commercial risks |
-| Evaluate hazards |
 | Provided by **IAO** (Insurers Advisory Organization) |
+
+> [!TIP]
+> **Plain Dumb Down Version (IAO Reports):**
+> Think of this as a "Home Inspection" but for businesses. The IAO sends an expert to check if the wiring is old, if the roof is leaking, or if the deep fryer is a fire hazard.
 
 ---
 
@@ -298,11 +299,13 @@ This section covers **the insurance purchase process**, **brokers vs agents**, *
 
 ### 3 Areas of Physical Hazards:
 
-| # | Area | What to Check |
-|---|------|---------------|
-| 1 | **Construction** | Building materials |
-| 2 | **Housekeeping** | Maintenance, upkeep |
 | 3 | **Occupancy** | Use of premises |
+
+> [!TIP]
+> **Plain Dumb Down Version (3 Physical Hazards):**
+> 1. **Construction**: What's it made of? (Wood burns, concrete cracks).
+> 2. **Housekeeping**: Is it messy? (Trash = Fire fuel).
+> 3. **Occupancy**: What do you do there? (Library = Safe, Welding shop = Dangerous).
 
 ---
 
@@ -327,11 +330,11 @@ This section covers **the insurance purchase process**, **brokers vs agents**, *
 
 > 💡 **From Transcript (372s-389s):** "Next is housekeeping. That refers to the maintenance and upkeep of the premises. Generally speaking, if the premises is well maintained, it's clean, it's going to have a less propensity for loss than a premises that was a bit messy or poorly maintained."
 
-| Housekeeping |
-|--------------|
-| Maintenance and upkeep |
-| Clean = Lower risk |
 | Messy/poorly maintained = Higher risk |
+
+> [!TIP]
+> **Plain Dumb Down Version (Housekeeping):**
+> It's not about vacuuming. It's about safety. Piles of oily rags in a corner? Bad housekeeping. Clear aisles and working sprinklers? Good housekeeping.
 
 ---
 
@@ -356,10 +359,12 @@ This section covers **the insurance purchase process**, **brokers vs agents**, *
 
 > 💡 **From Transcript (405s-415s):** "The physical hazards can be broad, meaning you're in a flood zone, you're in a high crime area, you're in an earthquake zone, or it can be specific to your premises, for example some faulty wiring."
 
-| Type | Example |
-|------|---------|
-| **Broad** | Flood zone, high crime area, earthquake zone |
 | **Specific** | Faulty wiring in YOUR building |
+
+> [!TIP]
+> **Plain Dumb Down Version (Broad vs Specific):**
+> - **Broad**: "This whole neighborhood floods." (Not your fault, but risky).
+> - **Specific**: " YOUR specific stairs are broken." (Your fault, very risky).
 
 ---
 
@@ -380,12 +385,14 @@ This section covers **the insurance purchase process**, **brokers vs agents**, *
 
 > 💡 **From Transcript (420s-441s):** "So for example you would be looking at things like the moral character of the applicant. Are they ethical? Are they honest? Have they had any questionable losses or claims in the past? You might want to look at their financial condition. What's their payment history? Have they had previous cancellations due to non-payment?"
 
-| Moral Hazard Check | Questions |
-|-------------------|-----------|
-| **Moral character** | Ethical? Honest? |
-| **Claims history** | Questionable losses? |
-| **Financial condition** | Payment history? |
 | **Non-payment** | Previous cancellations? |
+
+> [!TIP]
+> **Plain Dumb Down Version (Moral Hazard Signs):**
+> - "I forgot to mention my last 3 accidents." (Liar).
+> - "I can't pay this month, can you spot me?" (Financial trouble).
+> - "Eh, who cares if the alarm is broken." (Careless).
+> All of these mean the person is a RISK, even if their house is perfect.
 
 ---
 
@@ -411,11 +418,11 @@ This section covers **the insurance purchase process**, **brokers vs agents**, *
 
 ### 📋 Transcript Example: Restaurant Class
 
-| Class of Risk | Underwriter Checks |
-|---------------|-------------------|
-| Restaurant | Loss history of ALL restaurants |
-| | How often do restaurants have claims? |
 | | What types of claims? |
+
+> [!TIP]
+> **Plain Dumb Down Version (Loss Experience):**
+> "Guilt by Association." Even if YOUR restaurant is super safe, if 90% of restaurants have grease fires, your insurance will still be expensive. You are judged by "Your People" (your class of risk).
 
 > 🎯 **Plain English:** Before pricing YOUR restaurant, they look at how restaurants IN GENERAL perform. Lots of restaurant fires? Everyone pays more!
 

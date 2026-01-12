@@ -107,6 +107,11 @@ This chapter covers **characteristics of property insurance policies** including
 | **Perils Excluded** | Certain EVENTS are not covered |
 | **Property Excluded** | Certain ITEMS are not covered |
 
+> [!TIP]
+> **Plain Dumb Down Version (Two Types of Exclusions):**
+> - **Peril Exclusion**: "We don't cover this EVENT." Example: "We don't cover earthquakes."
+> - **Property Exclusion**: "We don't cover this THING." Example: "We don't cover your car under your home policy."
+
 ---
 
 ### 5a. Peril Exclusions (Why?)
@@ -213,8 +218,11 @@ This chapter covers **characteristics of property insurance policies** including
 | Mortgage Clause |
 |-----------------|
 | Side agreement between insurer and mortgagee (bank) |
-| Protects the BANK's interest |
 | 2 Guarantees |
+
+> [!TIP]
+> **Plain Dumb Down Version (Mortgage Clause Intro):**
+> When you have a mortgage, the BANK has money on the line too. This clause is their "Safety Net" to make sure they don't get screwed if you do something stupid.
 
 ---
 
@@ -233,9 +241,11 @@ This chapter covers **characteristics of property insurance policies** including
 
 | Mortgagee |
 |-----------|
-| The LENDER (bank) |
-| Provides financing |
 | Has insurable interest in the property |
+
+> [!TIP]
+> **Plain Dumb Down Version (Mortgagee Insurable Interest):**
+> The bank gave you $400,000 to buy a house. If that house burns down, they want their $400,000 back. That's their "insurable interest."
 
 > [!TIP]
 > **Plain Dumb Down Version (Mortgage Clause):**
@@ -256,9 +266,11 @@ This chapter covers **characteristics of property insurance policies** including
 
 | Warranty |
 |----------|
-| Promise that something IS true and WILL REMAIN true |
-| **Exact compliance required** |
 | If breached = Policy is **VOID** |
+
+> [!TIP]
+> **Plain Dumb Down Version (Warranty = VOID if Broken):**
+> A warranty is like a PINKY PROMISE. "I promise there's a fire alarm in my house." If the insurance company finds out you LIED, the entire policy is cancelled. Gone. Poof. No second chances.
 
 ---
 
@@ -295,10 +307,11 @@ This chapter covers **characteristics of property insurance policies** including
 
 > 💡 **From Transcript (307.87s-315.41s):** "That means if you lose one part in a machine, the insurance company will only pay for that one part, even if the machine is inoperable without that part."
 
-| Scenario | Insurance Pays |
-|----------|----------------|
-| Lose 1 part in a machine | Only that 1 part |
 | Machine is inoperable? | Too bad, still 1 part |
+
+> [!TIP]
+> **Plain Dumb Down Version (Machine Part):**
+> Imagine your car engine has a special $500 computer chip. The chip breaks, and now your $30,000 car won't start. Insurance will give you $500 for the chip, NOT $30,000 for the car. Even though the car is now useless, they only pay for the broken PART.
 
 ---
 
@@ -318,9 +331,11 @@ This chapter covers **characteristics of property insurance policies** including
 
 > 💡 **From Transcript (333.05s-337.86s):** "Same applies if you lose one part of a dining room set or any other thing of that nature."
 
-| Scenario | Insurance Pays |
-|----------|----------------|
 | Lose 1 chair from 6-chair set | Only that 1 chair |
+
+> [!TIP]
+> **Plain Dumb Down Version (Dining Room Set):**
+> Your beautiful 6-chair dining set cost $1,200. One chair gets destroyed. You might say: "But now the set doesn't match! I need a whole new set!" Insurance says: "Nope. Here's $200 for ONE chair. Good luck finding a match."
 
 > [!TIP]
 > **Plain Dumb Down Version (Pairs/Parts Rule):**
@@ -342,11 +357,11 @@ This chapter covers **characteristics of property insurance policies** including
 | 2 | **Interest of the Insured** | How much of the property do YOU own? |
 | 3 | **Limit of Insurance** | Maximum coverage on the policy |
 
-### Rule:
-
-| Indemnity Rule |
-|---------------|
 | You get the **SMALLEST** of the 3 numbers |
+
+> [!TIP]
+> **Plain Dumb Down Version (Indemnity Agreement):**
+> The insurance company does NOT want to overpay you. So they calculate 3 different numbers and give you the SMALLEST one. It's like asking 3 different appraisers, and the insurance company always picks the cheapest guy's answer.
 
 ---
 
@@ -409,13 +424,13 @@ This chapter covers **characteristics of property insurance policies** including
 
 > 💡 **From Transcript (432.73s-566.01s):** "There are also some alternate basis of settlement. If you don't want actual cash value, you have some options."
 
-### 3 Alternate Settlement Options:
-
-| # | Option |
-|---|--------|
-| 1 | Replacement Cost on Buildings |
-| 2 | Replacement Cost on Personal Property |
 | 3 | Valued Policy |
+
+> [!TIP]
+> **Plain Dumb Down Version (Alternate Settlement Options):**
+> ACV (Actual Cash Value) is the DEFAULT. It's the "budget" option that pays you the depreciated value. But if you pay a little extra, you can upgrade to:
+> - **Replacement Cost**: Get a brand NEW one, no depreciation deducted.
+> - **Valued Policy**: An appraiser says "This painting is worth $50,000." You get $50,000 if it's destroyed. No arguments.
 
 ---
 
@@ -423,11 +438,11 @@ This chapter covers **characteristics of property insurance policies** including
 
 > 💡 **From Transcript (439.64s-489.95s):** "So you can choose replacement cost coverage for buildings. However, if you do get replacement cost on buildings, you must repair or replace your building with due diligence and dispatch meaning as quickly as you can, otherwise you won't get the full amount. When you repair, you must repair with materials of like kind and quality at the same location, or if that's not possible, at a nearby location."
 
-| Requirement | Details |
-|-------------|---------|
-| **Due diligence and dispatch** | Repair/replace as QUICKLY as possible |
-| **Materials** | Like kind and quality |
 | **Location** | Same location (or nearby if not possible) |
+
+> [!TIP]
+> **Plain Dumb Down Version (Due Diligence and Dispatch):**
+> "Due diligence and dispatch" is lawyer-speak for "Hurry up and fix it!" If your building burns down, don't sit on the insurance money for 5 years. Rebuild quickly, or you won't get the full replacement cost.
 
 ---
 
@@ -518,14 +533,15 @@ This chapter covers **characteristics of property insurance policies** including
 | **Earthquake** | Excluded in most policies, endorsement available |
 | **Standard Mortgage Clause** | Required by all lenders |
 
-### Depreciation Factors (2026)
-
-| Factor | Impact |
-|--------|--------|
-| **Age** | Older = more depreciation |
-| **Condition** | Poor condition = more depreciation |
-| **Technology** | Fast-changing tech = more depreciation |
 | **Lifespan** | Short lifespan = faster depreciation |
+
+> [!TIP]
+> **Plain Dumb Down Version (Depreciation Factors):**
+> How much is your 5-year-old laptop worth? Way less than when you bought it. That's depreciation. Insurance considers:
+> - **Age**: Old stuff = less value.
+> - **Condition**: Beaten up stuff = less value.
+> - **Technology**: A 2020 phone is basically a brick now.
+> - **Lifespan**: A laptop lasts 5 years, a fridge lasts 20 years.
 
 ---
 

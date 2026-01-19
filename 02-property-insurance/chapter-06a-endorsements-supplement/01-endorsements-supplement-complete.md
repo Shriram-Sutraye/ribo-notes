@@ -721,6 +721,125 @@ Endorsements are **optional add-ons** you can purchase to enhance your coverage.
 
 ---
 
+### 🧠 Deep Explanation: Earthquake for Condos
+
+#### 🤔 First, Understand How Condo Insurance Works
+
+When you own a **condo**, you actually have **TWO layers of insurance**:
+
+| Layer | Who Buys It | What It Covers |
+|-------|-------------|----------------|
+| **1. Master Policy** | Condo corporation (building management) | Common areas (hallways, lobby, roof, elevators, parking garage) |
+| **2. Your Personal Condo Policy** | YOU (the unit owner) | Your unit + your stuff + your upgrades |
+
+**The Problem:** The condo corporation's master policy covers the **building's structure**, but NOT:
+- Your personal furniture/electronics
+- Your fancy kitchen renovation
+- The hardwood floors you installed
+- Your hotel costs if you have to move out temporarily
+
+---
+
+#### 🌍 What Happens During an Earthquake?
+
+Imagine a big earthquake hits your condo building in Ottawa:
+
+##### Scenario 1: Damage to Common Areas
+
+The earthquake cracks the building's lobby, destroys the elevator, and damages the roof.
+
+| Who Pays? | Answer |
+|-----------|--------|
+| Condo corporation's master policy | ✅ Should cover this |
+| BUT... | Master policy deductible is $500,000! |
+| Condo corp says: | "All 100 unit owners, pay $5,000 each to cover the deductible" |
+| This is called: | **Loss Assessment** |
+
+##### Scenario 2: Damage to YOUR Unit
+
+The earthquake cracks your walls, destroys your TV, and makes your unit unlivable for 3 months.
+
+| What's Damaged? | Who Pays? |
+|-----------------|-----------|
+| Your furniture/electronics | YOUR condo insurance |
+| Your upgrade (granite countertops) | YOUR condo insurance |
+| Hotel for 3 months | YOUR condo insurance (Additional Living Expenses) |
+
+---
+
+#### 📋 Breaking Down the 5 Condo Earthquake Coverages
+
+| # | Coverage | What It Means | Real Example |
+|---|----------|---------------|--------------|
+| 1 | **Personal Property** | Your stuff inside the unit | TV, furniture, laptop, clothes destroyed by earthquake |
+| 2 | **Additional Living Expenses (ALE)** | Your temporary housing costs | Unit is unlivable → hotel + meals for 3 months |
+| 3 | **Unit Improvements** | Upgrades YOU made to the unit | Hardwood floors, new kitchen cabinets, granite counters you installed |
+| 4 | **Loss Assessments** | Your share of building-wide damage | Condo corp charges you $5,000 to help cover lobby repairs |
+| 5 | **Additional Unit Protection** | Extra structural coverage for your unit | Your unit's walls/ceiling that aren't covered by master policy |
+
+---
+
+#### 🏗️ Unit Improvements - Why This Matters
+
+When the condo was built, it had **basic finishes** (called the "standard unit"):
+- Basic carpet
+- Standard cabinets
+- Basic countertops
+- Builder-grade appliances
+
+**The condo corp's master policy only covers THIS basic version.**
+
+But YOU added:
+- Hardwood floors ($10,000)
+- Custom kitchen ($25,000)
+- Marble bathroom ($8,000)
+
+**If earthquake destroys these → Master policy pays $0. YOUR condo policy pays (if you have this endorsement).**
+
+---
+
+#### 💰 Loss Assessments - Why This Matters
+
+This is the tricky one. Here's how it works:
+
+1. Earthquake damages the building's common areas
+2. Condo corp files claim on master policy
+3. Master policy says: "Deductible is $200,000"
+4. Condo corp doesn't have $200K in reserve
+5. Condo corp sends YOU a bill: "Pay your share = $2,000"
+6. **Loss Assessment coverage** in YOUR policy pays this bill for you!
+
+##### 📋 Loss Assessment Example
+
+| Building | Details |
+|----------|---------|
+| 100 units in building | |
+| Master policy deductible | $200,000 |
+| Each unit's share | $2,000 |
+| Your Loss Assessment coverage | Pays your $2,000 share |
+
+---
+
+#### 🎯 Why This Section Exists
+
+The transcript is saying: **"Earthquake insurance isn't just for houses—it works for condos too!"**
+
+But for condos, it covers **different things** because condos have a unique split between:
+- What the building (corp) insures
+- What YOU insure
+
+---
+
+#### ⚠️ Key Points for RIBO Exam
+
+1. **Condos have 2 layers of insurance** (Master + Personal)
+2. **Unit Improvements** = YOUR upgrades NOT covered by master policy
+3. **Loss Assessments** = YOUR share when building makes a claim
+4. **All 5 coverages** work together to protect condo owners from earthquake damage
+5. **Deductibles are still high** (5-20% of coverage or $100K minimum)
+
+---
+
 ### 4d. Sewer Backup / Water Escape Coverage (11:55 - 13:28)
 
 > 💡 **From Transcript (710.36s-734.079s):** "Another very popular endorsement is the sewer backup or water escape coverage. This covers water entering the dwelling due to an accidental escape of water from things like melting of snow and ice on the roof, a sewer, a drain, a septic tank, or a downspout. Basically sewer backup insures all kinds of waste water that has escaped and damaged your property."

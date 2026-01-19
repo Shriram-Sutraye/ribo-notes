@@ -393,6 +393,93 @@ Think of it like car insurance:
 
 ---
 
+### 🧠 Deep Dive: Do You Need to Memorize Special Limits for RIBO Exam?
+
+#### ✅ SHORT ANSWER: YES, but the exam is now OPEN-BOOK (since Jan 2025)
+
+This is good news! Since January 1, 2025, the RIBO Level 1 exam is **open-book**, meaning:
+- You get access to policy wordings during the exam
+- You can **look up** specific dollar amounts
+- **BUT** you need to know **WHERE to find them quickly**
+
+---
+
+#### 🎯 What Reddit Says (Based on Real Test-Takers)
+
+| What to Focus On | Priority |
+|------------------|----------|
+| **Co-insurance calculations** | 🔥 HIGH (multiple questions!) |
+| **OPCFs (5, 6, 49, etc.)** | 🔥 HIGH |
+| **Policy wording differences** (Homeowners vs Tenant vs Condo) | 🔥 HIGH |
+| **Concepts behind limits** (WHY items are limited) | 🔥 HIGH |
+| **Exact dollar amounts** | 🟡 MEDIUM (can look up, but know the ballpark) |
+
+---
+
+#### 💡 Know the PATTERN, Not Every Number
+
+Instead of memorizing every dollar value, understand the **pattern**:
+
+| Category | Typical Limit | WHY It's Low |
+|----------|--------------|--------------|
+| **Money/Bullion** | $200 | Easy to steal, hard to prove |
+| **Coins/Numismatics** | $100 | Easy to steal, debatable value |
+| **Manuscripts/Stamps** | $500 | Collectibles, need appraisal |
+| **Jewellery/Watches/Furs (theft)** | $1,000-$1,500 | Easy to steal, high value |
+| **Securities** | $1,000 | Can be replaced (contact bank) |
+| **Silverware/Pewterware** | $5,000 | Harder to steal (bulky) |
+
+**Memory Trick:**
+- **Smaller = Easier to steal = Lower limit** (coins, cash, jewelry)
+- **Bigger = Harder to steal = Higher limit** (silverware)
+
+---
+
+#### 📌 What You MUST Know Cold (No Lookup Time)
+
+These come up in **calculations and scenarios**, so memorize:
+
+| Value | What It's For |
+|-------|---------------|
+| **10%** | Extension limits (10% of Coverage A or C) |
+| **30 days** | Newly acquired items automatic coverage |
+| **7 days** | Earthquake aftershock rule |
+| **$500** | Building damage from burglary (from Coverage C) |
+| **$100,000** | Common minimum for earthquake deductible |
+
+---
+
+#### 🎓 RIBO Exam Strategy (Open-Book)
+
+Since it's open-book:
+1. ✅ **Know the concepts** (what's covered, what's excluded, WHY)
+2. ✅ **Know where to look** (which section of policy wording)
+3. ❌ **Don't waste time** looking up every $200 vs $500 difference
+4. 🔥 **Focus on calculations** (co-insurance, ACV vs RC)
+5. 🔥 **Focus on OPCFs and auto** (heavily tested!)
+
+---
+
+#### 📝 Quick Cheat Sheet: Memory Tricks for Special Limits
+
+| Item | Limit | Memory Trick |
+|------|-------|--------------|
+| Money/Bullion | $200 | "2 fingers can grab cash fast" |
+| Coins | $100 | "Coins = 1 pocket = $100" |
+| Stamps/Manuscripts | $500 | "5 letters in STAMP" |
+| Jewellery/Furs (theft) | $1,000-1,500 | "Jewellery = Just 1K for theft" |
+| Securities | $1,000 | "SECurities = SEC = 1000" |
+| Silverware | $5,000 | "SILVER = 6 letters ≈ $5,000" |
+
+> [!IMPORTANT]
+> **Bottom Line:** Don't stress about memorizing every single dollar amount. Focus on:
+> 1. Understanding WHY limits exist
+> 2. Knowing the approximate range
+> 3. Knowing how to find them quickly in policy wordings
+> 4. Spending more time on **co-insurance calculations** and **OPCFs**
+
+---
+
 ### Vandalism Exclusions
 
 > 💡 **From Transcript (296.64s-330.68s):** "And the final coverage you get as part of the named perils is for vandalism or malicious acts. This excludes damage to seasonal dwellings or structures and its property. Damage while under construction or vacant. Damage caused by the insured damage to building glass. Actual or attempted theft, burglary or robbery. And damage attributable to a tenant, the tenants employee, the tenants household, or a tenants guest."

@@ -40,6 +40,154 @@ This chapter covers **additional property insurance coverages** and **endorsemen
 
 ---
 
+### 🧠 Deep Explanation: Understanding Secondary Dwelling Insurance
+
+#### 📌 What Problem Does It Solve?
+
+**Normal Situation:** You have ONE home → You buy **homeowners insurance** → Done! ✅
+
+**Problem Situation:**
+1. You buy a **second property** (not your main home)
+2. You **rent it out** to tenants
+3. You try to buy "homeowners insurance" for it...
+4. Insurance company says: **"NOPE! This isn't YOUR home. It's a rental property."** ❌
+
+**Why do they refuse?**
+- Homeowners insurance is designed for **owner-occupied** properties (you live there)
+- A rental property has **different risks** (tenants don't care for it like you would, higher damage potential)
+- A rental property is essentially a **business activity** (you're earning income)
+
+#### 🎯 The Solution: Secondary Dwelling Insurance
+
+This is a **specialized policy** for exactly this situation:
+- ✅ You own the building
+- ✅ You **don't live there** (it's your 2nd property)
+- ✅ **Tenants live there** (you rent it out)
+- ❌ You can't get regular homeowners insurance for it
+
+---
+
+### 📖 Real-World Ontario Examples (2026)
+
+#### Example 1: The Out-of-Town Rental
+
+**Scenario:**
+Sarah lives in Brampton and inherited her uncle's old house in Hamilton. She doesn't want to sell it, so she rents it to a college student for $1,500/month.
+
+**Problem:** Sarah already has homeowners insurance on her Brampton house (her primary home). But the Hamilton house isn't her "home"—it's an investment/rental property. Insurance companies won't give her regular homeowners insurance.
+
+**Solution:** Sarah buys **Secondary Dwelling Insurance** for the Hamilton property. This covers:
+- The building itself (roof, walls, foundation)
+- Her stuff left in the house (old furniture, appliances)
+- Lost rental income if the house becomes uninhabitable
+
+---
+
+#### Example 2: The Multi-Property Landlord
+
+**Scenario:**
+Ahmed lives in Toronto. He bought a rental duplex in Scarborough. He rents both units to families.
+
+**Problem:** This is 100% a rental property—Ahmed doesn't live in either unit. Standard homeowners insurance is designed for your MAIN residence where YOU live.
+
+**Solution:** Ahmed needs **Secondary Dwelling Insurance**. This specialized policy:
+- Covers damage to the duplex building
+- Covers detached structures (garage, shed) proportionally
+- Covers fair rental value if tenants can't pay rent because of damage
+
+---
+
+### 📋 Coverage Breakdown (What You Actually Get)
+
+#### **Coverage A: The Building (Dwelling)**
+
+| What's Covered | What's NOT Covered |
+|----------------|-------------------|
+| Walls, roof, foundation | Plants/fixtures temporarily removed (different from homeowners!) |
+| Attached garage | |
+| Built-in appliances | |
+
+**Extensions (10% of Coverage A limit):**
+
+| Extension | Real Example |
+|-----------|--------------|
+| **Fixtures temporarily removed** | You take the chandelier down for repairs → still covered |
+| **Detached private structures** | Your rental has a shed + garage → both covered proportionally |
+| **Fair rental value** | Fire makes property uninhabitable → insurance pays you the lost rent |
+
+**The Proportional Rule Explained:**
+- Total value of all structures = $100,000
+- Garage = $10,000 (10% of total)
+- Extension limit = $10,000 (10% of Coverage A)
+- Garage coverage = $1,000 (10% of the $10,000 extension)
+
+---
+
+#### **Coverage C: Personal Property (Your Stuff)**
+
+This covers **your belongings** left in the rental property:
+- Old furniture
+- Appliances (washer, dryer, fridge)
+- Tools in the garage
+
+**Extensions (10% of Coverage C limit):**
+
+| Extension | Real Example |
+|-----------|--------------|
+| **Uninsured property of others** | Tenant has no insurance → their laptop breaks → covered (limited) |
+| **Temporarily removed property** | You take the TV to your main home → still covered (Canada/US only) |
+| **Additional living expenses** | If YOU had to relocate because of the property issue → covered |
+
+---
+
+### 🤔 Why This Is Different From Homeowners Insurance
+
+| Feature | Homeowners Insurance | Secondary Dwelling |
+|---------|---------------------|-------------------|
+| **Who lives there?** | YOU (owner-occupied) | Tenants (rented out) |
+| **Purpose** | Your primary residence | Investment/income property |
+| **Risk level** | Lower (you take care of it) | Higher (tenants may not) |
+| **Coverage for plants temporarily removed** | ✅ Yes | ❌ No |
+| **Vandalism** | Usually included | Usually EXCLUDED (needs endorsement) |
+
+---
+
+### ⚠️ Key Points for RIBO Exam
+
+1. **Secondary Dwelling ≠ Seasonal Dwelling**
+   - Secondary = **Rented out to others**, NOT occupied by owner
+   - Seasonal = **Your cottage/vacation home** (you use it sometimes)
+
+2. **Extensions are 10% of the main coverage limit**
+   - Coverage A = $100,000 → Extensions = $10,000
+
+3. **Proportional rule for multiple structures**
+   - If garage = 15% of total structure value, it gets 15% of the extension limit
+
+4. **Fair Rental Value**
+   - If fire damages the house and tenant can't pay rent → insurance pays YOU the lost rent
+
+5. **Vandalism typically excluded** (covered separately if shown on declarations page) because owner isn't there to monitor the property
+
+---
+
+### 💡 The "Unable to Get Homeowners" Part Explained
+
+The transcript says: _"This insurance is for people who own a second dwelling that's rented to other people, **but they're unable to get homeowners for that building**."_
+
+**Translation:**
+- Insurance companies have **specific products for specific situations**
+- You can't just use "homeowners insurance" for everything
+- A rental property = different risk profile = needs a different policy
+- Secondary Dwelling Insurance exists BECAUSE homeowners insurance won't cover rental properties
+
+Think of it like car insurance:
+- You can't use personal auto insurance for a taxi/Uber
+- You need **commercial auto insurance** for that
+- Same logic: You can't use "home" insurance for a "rental business"
+
+---
+
 ### Coverage A: Dwelling Building
 
 > 💡 **From Transcript (27.84s-55.8s):** "So the first coverage you get is Coverage A for the dwelling building. You get the same coverage as we've discussed in the previous homeowners policies, minus plants and fixtures that are temporarily removed. But you do get three extensions of coverage with a limit equal to 10% of whatever limit you purchased for Coverage A. So if your Coverage A limit is $100,000, your limit for these extensions is $10,000."
